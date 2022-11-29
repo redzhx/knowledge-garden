@@ -1,8 +1,11 @@
 ---
 created: 2022-05-13T10:13:16 (UTC +08:00)
-tags: [blog,productivity,learning,development,software engineering]
+tags: [blog, productivity, learning, development, software engineering]
 source: https://bagerbach.com/blog/how-i-write-my-newsletter-with-obsidian
 author: 
+title: How I Write My Newsletter With Obsidian | Christian Bager Bach Houmann
+date created: 2022-05-13
+date modified: 2022-11-29
 ---
 
 # How I Write My Newsletter With Obsidian | Christian Bager Bach Houmann
@@ -11,13 +14,14 @@ author:
 > Christian Bager Bach Houmann - I'm a software engineering student from Denmark with a passion for learning, productivity, and problem-solving. Let's learn together.
 
 ---
+
 How do I keep an overview of everything to include in my weekly newsletter?
 
 This is the question I asked myself when I started building this system. I needed a system for frictionless and easy management of my newsletter. More specifically, I needed
 
--   to remember every piece of content I want to include
--   get an overview of notes or thoughts I've had recently that I could write about
--   keep track of things I've already shared, so I don't share the same stuff over and over
+- to remember every piece of content I want to include
+- get an overview of notes or thoughts I've had recently that I could write about
+- keep track of things I've already shared, so I don't share the same stuff over and over
 
 And that's what I got.
 
@@ -126,15 +130,15 @@ First, the Template choice. This is what I use when I don't have anything captur
 
 As can be seen in the image, I have a QuickAdd Template choice that
 
--   creates the note with the template mentioned earlier
--   gives the note a file name of the format "Newsletter Week {{DATE:ww yyyy}}", which becomes "Newsletter Week 08 2022", for example
--   creates the note in the "outputs/newsletters" folder
--   appends a link to the note in the currently open file
--   and then, it opens the newly created newsletter note.
+- creates the note with the template mentioned earlier
+- gives the note a file name of the format "Newsletter Week {{DATE:ww yyyy}}", which becomes "Newsletter Week 08 2022", for example
+- creates the note in the "outputs/newsletters" folder
+- appends a link to the note in the currently open file
+- and then, it opens the newly created newsletter note.
 
 Yeah. I don't want to do that manually every time I want to write my newsletter. I'd rather focus on actually writing it.
 
-But! I actually usually create the note by... capturing to it?
+But! I actually usually create the note by… capturing to it?
 
 ## Capturing to the newsletter notes
 

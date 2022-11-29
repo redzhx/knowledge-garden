@@ -1,9 +1,13 @@
 ---
 created: 2022-05-13T16:33:01 (UTC +08:00)
-tags: []
+tags: [tofinish, 42SmartBlock]
 source: https://www.zsolt.blog/2020/12/de-bonos-algorithms-of-thought-for.html
 author: Share
+title: "De Bono's Algorithms of Thought for Lateral Thinking and Creativity Part 1"
+date created: 2022-05-13
+date modified: 2022-11-29
 ---
+
 #tofinish 整理笔记
 
 # De Bono's Algorithms of Thought for Lateral Thinking and Creativity Part 1
@@ -12,6 +16,7 @@ author: Share
 > The post covers 5 algorithms of thought that catalyze lateral thinking (CAF, APC, OPV, C&S, PMI), including implementation in Roam with SmartBlocks.
 
 ---
+
 ### De Bono's Algorithms of Thought for Lateral Thinking and Creativity Part 1
 
 ![](https://1.bp.blogspot.com/-ASlBYcTjlLo/X8v_BZScKwI/AAAAAAAAwKI/t4r2N7tJ_cg2ss3NEvL4G7urHDAUXaSPQCLcBGAsYHQ/s320/91NMyRxvZiL.jpg)
@@ -38,16 +43,16 @@ CAF is pronounced 'caff'. It is an extremely simple yet very powerful attention-
 
 ### Example
 
--   **Situation:** You have decided to build a new home and you are looking for a builder. When reviewing different offers what factors would you consider?
--   **Factors to consider:**
-    -   References
-    -   Price
-    -   Availability
-    -   Personal sympathy
-    -   Start and finish dates
-    -   Guarantees
-    -   Years of experience
-    -   Accuracy of proposal
+- **Situation:** You have decided to build a new home and you are looking for a builder. When reviewing different offers what factors would you consider?
+- **Factors to consider:**
+    - References
+    - Price
+    - Availability
+    - Personal sympathy
+    - Start and finish dates
+    - Guarantees
+    - Years of experience
+    - Accuracy of proposal
 
 ### Roam #42SmartBlock
 
@@ -57,24 +62,24 @@ CAF is pronounced 'caff'. It is an extremely simple yet very powerful attention-
 
 APC is pronounced with each letter separate: 'A', 'P', 'C'. It is another attention-directing algorithm. It facilitates _parallel_ thinking as opposed to _forward_ thinking. There are many different aspects APC can be applied to:
 
--   **Perception**: When the same thing can be looked at in different ways.
--   **Action**: Different courses of action can be taken in a situation.
--   **Solutions:** Alternative solutions to a problem.
--   **Approaches**: Different ways of tackling the problem in order to find a solution.
--   **Explanations**: Alternative hypotheses / explanations of how something happened.
--   **Design**: Alternative designs that all fulfil the the purpose of the design.
+- **Perception**: When the same thing can be looked at in different ways.
+- **Action**: Different courses of action can be taken in a situation.
+- **Solutions:** Alternative solutions to a problem.
+- **Approaches**: Different ways of tackling the problem in order to find a solution.
+- **Explanations**: Alternative hypotheses / explanations of how something happened.
+- **Design**: Alternative designs that all fulfil the the purpose of the design.
 
 Sometimes we are forced to consider alternatives, because we get stuck with one approach. At other we look for alternatives to find a better one. In my experience the first solution that comes to mind is just that, the first solution. It is hard not to fall in love with it, but often further thinking yields better alternatives. To make the best use of the algorithm, you must be very clear about the purpose of looking for an alternative. e.g.: _"I want an alternative way of getting from the airport to the hotel."_
 
 ### Example
 
--   **Situation:** I almost religiously avoid cash. I once arrived at London Heathrow at 1 am in the morning. I was booked at an "airport hotel" which was near the airport, but not exactly walking distance. I  needed to make my way there. I had no cash only a credit card.
--   **Alternatives, Possibilities, Choices:**
-    -   Get a cab and pay with my card (I couldn't find one that would accept my card - even if I promised a generous tip)
-    -   Walk to the hotel (no walkway, long distance)
-    -   Get cash from an ATM (getting cash with a credit card is an option, but it is expensive)
-    -   Call the hotel to send a car (they did not operate cars at 1 am)
-    -   Call the hotel and agree a payout from my room account, and pay the driver in cash (the actual solution)
+- **Situation:** I almost religiously avoid cash. I once arrived at London Heathrow at 1 am in the morning. I was booked at an "airport hotel" which was near the airport, but not exactly walking distance. I  needed to make my way there. I had no cash only a credit card.
+- **Alternatives, Possibilities, Choices:**
+    - Get a cab and pay with my card (I couldn't find one that would accept my card - even if I promised a generous tip)
+    - Walk to the hotel (no walkway, long distance)
+    - Get cash from an ATM (getting cash with a credit card is an option, but it is expensive)
+    - Call the hotel to send a car (they did not operate cars at 1 am)
+    - Call the hotel and agree a payout from my room account, and pay the driver in cash (the actual solution)
 
 ### Roam #42SmartBlock
 
@@ -98,9 +103,9 @@ The first step in doing an OPV is always to list the people or groups affected. 
 
 ### Example
 
--   **Situation:** Meeting for New-Year's celebrations as an extended family with COVID-19 still out there.
--   **Who are affected and what are their views?**
-    -   <table><tbody><tr><td><p><strong>People or groups affected</strong></p></td><td><p><strong>What views are they holding?</strong></p></td></tr><tr><td><p>My Parents</p></td><td><p>- Would like to celebrate with the kids as always<br>- Are concerned about COVID-19<br>- Are ok to self-quarantine themselves 10 days in advance<br>- Would prefer to visit us to save the hassle of preparations</p></td></tr><tr><td><p>My Children</p></td><td><p>- Would rather celebrate with their friends<br>- Want to be out and about during the winter break, and not stay at home in self-quarantine</p></td></tr><tr><td><p>My Wife</p></td><td><p>- Will need to do much of the preparations<br>- Would want her parents to visit as well<br>- Is ok with the idea of self-quarantine</p></td></tr></tbody></table>
+- **Situation:** Meeting for New-Year's celebrations as an extended family with COVID-19 still out there.
+- **Who are affected and what are their views?**
+    - <table><tbody><tr><td><p><strong>People or groups affected</strong></p></td><td><p><strong>What views are they holding?</strong></p></td></tr><tr><td><p>My Parents</p></td><td><p>- Would like to celebrate with the kids as always<br>- Are concerned about COVID-19<br>- Are ok to self-quarantine themselves 10 days in advance<br>- Would prefer to visit us to save the hassle of preparations</p></td></tr><tr><td><p>My Children</p></td><td><p>- Would rather celebrate with their friends<br>- Want to be out and about during the winter break, and not stay at home in self-quarantine</p></td></tr><tr><td><p>My Wife</p></td><td><p>- Will need to do much of the preparations<br>- Would want her parents to visit as well<br>- Is ok with the idea of self-quarantine</p></td></tr></tbody></table>
         
 
 ### Roam #42SmartBlock
@@ -121,25 +126,25 @@ Finally certainty deals with the level of certainty or uncertainty regarding out
 
 ### Example
 
--   **Situation:** Meeting for New-Year's celebrations as an extended family with COVID-19 still out there.
-    -   **What is the ideal, worst and most likely outcome?**
-        -   **Immediately**
-            -   Parents will be happy and will look forward to the event.
-            -   The kids will accept and organize their life around it.
-        -   **Short-term**
-            -   Organize self-quarantine including shopping ahead of time.
-        -   **Medium-term**
-            -   A nice evening together.
-        -   **Long-term**
-            -   Low likelihood: Consequences of getting infected with COVID-19
-    -   **What are the benefits?**
-        -   Something "normal" in a crazy year.
-    -   **What could be some problems or risks?**
-        -   COVID-19 infection, especially in case of my parents
-    -   **What are the costs?**
-        -   Negligible
-    -   **How certain are you about your prediction as to what will happen?**
-        -   90%
+- **Situation:** Meeting for New-Year's celebrations as an extended family with COVID-19 still out there.
+    - **What is the ideal, worst and most likely outcome?**
+        - **Immediately**
+            - Parents will be happy and will look forward to the event.
+            - The kids will accept and organize their life around it.
+        - **Short-term**
+            - Organize self-quarantine including shopping ahead of time.
+        - **Medium-term**
+            - A nice evening together.
+        - **Long-term**
+            - Low likelihood: Consequences of getting infected with COVID-19
+    - **What are the benefits?**
+        - Something "normal" in a crazy year.
+    - **What could be some problems or risks?**
+        - COVID-19 infection, especially in case of my parents
+    - **What are the costs?**
+        - Negligible
+    - **How certain are you about your prediction as to what will happen?**
+        - 90%
 
 ### Roam #42SmartBlock
 
@@ -153,17 +158,17 @@ PMI looks at a case and assesses the plus points, the minus points and the inter
 
 ### Example
 
--   **Case:** The last person to stand in line is the first to get on the ride in Amusement Parks
--   **Plus:**
-    -   No long lines as it is not a good strategy to stand in line, if the last to arrive gets in first
-    -   People move around more, entrances to rides are less crowed
-    -   When you arrive at just the right moment, you can get on a ride quickly
--   **Minus:**
-    -   Unpredictable. If you are unlucky, you may not get on a ride the whole day
-    -   Fights may evolve as people are trying to get to the back of the line
--   **Interesting:**
-    -   People that like to mix and mingle might find this a great opportunity to connect with more people then just standing in line in the traditional way
-    -   Maybe an inverse line would eventually emerge
+- **Case:** The last person to stand in line is the first to get on the ride in Amusement Parks
+- **Plus:**
+    - No long lines as it is not a good strategy to stand in line, if the last to arrive gets in first
+    - People move around more, entrances to rides are less crowed
+    - When you arrive at just the right moment, you can get on a ride quickly
+- **Minus:**
+    - Unpredictable. If you are unlucky, you may not get on a ride the whole day
+    - Fights may evolve as people are trying to get to the back of the line
+- **Interesting:**
+    - People that like to mix and mingle might find this a great opportunity to connect with more people then just standing in line in the traditional way
+    - Maybe an inverse line would eventually emerge
 
 ### Roam #42SmartBlock
 
