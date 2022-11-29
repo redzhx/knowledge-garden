@@ -1,12 +1,13 @@
 ---
 created: 2022-05-13T10:13:16 (UTC +08:00)
-tags: [blog, productivity, learning, development, software engineering]
-source: https://bagerbach.com/blog/how-i-write-my-newsletter-with-obsidian
+tags: blog, productivity, learning, development, software engineering
 author: 
 title: How I Write My Newsletter With Obsidian | Christian Bager Bach Houmann
 date created: 2022-05-13
 date modified: 2022-11-29
 ---
+
+ source:  [Fetching Title#wtlb](https://bagerbach.com/blog/how-i-write-my-newsletter-with-obsidian)
 
 # How I Write My Newsletter With Obsidian | Christian Bager Bach Houmann
 

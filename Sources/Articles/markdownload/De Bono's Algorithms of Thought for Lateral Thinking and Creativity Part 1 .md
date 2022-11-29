@@ -1,12 +1,13 @@
 ---
 created: 2022-05-13T16:33:01 (UTC +08:00)
-tags: [tofinish, 42SmartBlock]
-source: https://www.zsolt.blog/2020/12/de-bonos-algorithms-of-thought-for.html
+tags: tofinish
 author: Share
-title: "De Bono's Algorithms of Thought for Lateral Thinking and Creativity Part 1"
+title: De Bono's Algorithms of Thought for Lateral Thinking and Creativity Part 1
 date created: 2022-05-13
 date modified: 2022-11-29
 ---
+
+source: https://www.zsolt.blog/2020/12/de-bonos-algorithms-of-thought-for.html
 
 #tofinish 整理笔记
 

@@ -1,12 +1,14 @@
 ---
 created: 2022-05-14T22:34:50 (UTC +08:00)
-tags: []
-source: https://m.signalvnoise.com/ive-never-had-a-goal/
+tags:
 author: 
 title: I’ve never had a goal - Signal v. Noise
 date created: 2022-05-14
 date modified: 2022-11-29
 ---
+
+source:  [Fetching Title#mzli](https://m.signalvnoise.com/ive-never-had-a-goal/)
+
 
 # I’ve never had a goal - Signal v. Noise
 
