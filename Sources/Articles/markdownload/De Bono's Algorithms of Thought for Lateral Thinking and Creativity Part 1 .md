@@ -1,5 +1,5 @@
 ---
-created: 2022-05-13T16:33:01 (UTC +08:00)
+created: 2022-05-13
 tags: tofinish
 author: Share
 title: De Bono's Algorithms of Thought for Lateral Thinking and Creativity Part 1

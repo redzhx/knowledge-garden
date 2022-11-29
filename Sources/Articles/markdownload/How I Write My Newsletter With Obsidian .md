@@ -1,5 +1,5 @@
 ---
-created: 2022-05-13T10:13:16 (UTC +08:00)
+created: 2022-05-13
 tags: blog, productivity, learning, development, software engineering
 author: 
 title: How I Write My Newsletter With Obsidian | Christian Bager Bach Houmann

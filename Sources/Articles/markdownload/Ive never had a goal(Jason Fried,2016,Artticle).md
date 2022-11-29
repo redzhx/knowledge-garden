@@ -1,5 +1,5 @@
 ---
-created: 2022-05-14T22:34:50 (UTC +08:00)
+created: 2022-05-14
 tags:
 author: 
 title: I’ve never had a goal - Signal v. Noise
