@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
+                "file": "AboutTheGarden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
+                "file": "AboutTheGarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
+                "file": "AboutTheGarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍀 花园导览/其他/👬🏻 别的数字花园收录.md"
+                "file": "AboutTheGarden.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "18e2b08b27a4ef9a",
   "lastOpenFiles": [
+    "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
     "🍀 花园导览/🍀 花园导览.md",
     "🍀 花园导览/👓 学习方法.md",
     "🍀 花园导览/🗜 效率工具.md",
