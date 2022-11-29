@@ -1,0 +1,107 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-easy",
+      "icon": "chevrons-right",
+      "name": "Spaced Repetition: 标记为“简单”",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-spaced-repetition:srs-note-review-hard",
+      "icon": "shield-close",
+      "name": "Spaced Repetition: 标记为“较难”",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [
+    {
+      "id": "app:toggle-right-sidebar",
+      "icon": "align-right",
+      "name": "Toggle right sidebar",
+      "mode": "any"
+    },
+    {
+      "id": "app:toggle-left-sidebar",
+      "icon": "align-left",
+      "name": "折叠/展开左侧边栏",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-weread-plugin:sync-weread-notes-command",
+      "icon": "book-open",
+      "name": "Weread Plugin: Sync Weread Notes",
+      "mode": "any"
+    }
+  ],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "editor:toggle-source",
+      "icon": "code-glyph",
+      "name": "切换实时阅览/源码模式",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "navigate-glyph",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "日记: 打开/创建今天的日记",
+      "mode": "any"
+    }
+  ],
+  "hide": {
+    "statusbar": [
+      "word-count",
+      "backlink"
+    ],
+    "leftRibbon": [
+      "新建 Excalidraw 绘图",
+      "Show Slide Preview",
+      "插入模板",
+      "BRAT",
+      "打开命令面板",
+      "打开快速切换",
+      "复习卡片",
+      "Create a new database table",
+      "Omnisearch",
+      "Toggle Stille",
+      "管理工作区布局",
+      "Templater",
+      "Advanced Tables Toolbar"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 3,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [
+      {
+        "commandID": "obsidian-spaced-repetition:srs-note-review-easy",
+        "iconID": "check"
+      },
+      {
+        "commandID": "obsidian-spaced-repetition:srs-note-review-hard",
+        "iconID": "alert-triangle"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

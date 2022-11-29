@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ccaeaa24700561a1",
+        "id": "73122e05c726f4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "18e2b08b27a4ef9a",
+            "id": "ce5824e091620047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "HOMEPAGE.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -64,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "05ca53ed27984acc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "HOMEPAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "HOMEPAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,25 +134,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AboutTheGarden.md"
+                "file": "HOMEPAGE.md"
               }
             }
+          },
+          {
+            "id": "e48da3da6bbf7353",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "18e2b08b27a4ef9a",
+  "active": "ce5824e091620047",
   "lastOpenFiles": [
-    "🍀 花园导览/其他/👬🏻 别的数字花园收录.md",
-    "🍀 花园导览/🍀 花园导览.md",
-    "🍀 花园导览/👓 学习方法.md",
-    "🍀 花园导览/🗜 效率工具.md",
-    "AboutTheGarden.md",
-    "🍀 花园导览/🧀 知识管理.md",
-    "Cards/test mg.md"
+    "Sources/Videos/📹放弃roam用obsidian的理由.md",
+    "Sources/Videos/📹【罗翔】我们为什么要读书？.md",
+    "Sources/Videos/📹【何同学】我做了一个自己打字的键盘....md",
+    "Sources/Papers/zotero和obsidian的联动.md",
+    "Sources/Movies + TV/电影笔记/🎬彗星来的那一夜.md",
+    "Sources/Movies + TV/电视剧笔记/📺喜鹊谋杀案.md",
+    "Sources/Movies + TV/电视剧笔记/📺且试天下.md",
+    "Sources/Courses/∑ 课程笔记.md",
+    "Sources/Courses/» 课程笔记工作流.md",
+    "Sources/Courses/在线课程MOOC/∑ 在线课程MOOC.md"
   ]
 }
