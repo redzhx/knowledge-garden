@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOMEPAGE.md",
+                "file": "Calendar/Daily notes/2022-11-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOMEPAGE.md",
+                "file": "Calendar/Daily notes/2022-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOMEPAGE.md",
+                "file": "Calendar/Daily notes/2022-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOMEPAGE.md"
+                "file": "Calendar/Daily notes/2022-11-30.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "ce5824e091620047",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2022-11-29.md",
     "Sources/Videos/📹放弃roam用obsidian的理由.md",
     "Sources/Videos/📹【罗翔】我们为什么要读书？.md",
     "Sources/Videos/📹【何同学】我做了一个自己打字的键盘....md",
@@ -164,7 +165,6 @@
     "Sources/Movies + TV/电视剧笔记/📺喜鹊谋杀案.md",
     "Sources/Movies + TV/电视剧笔记/📺且试天下.md",
     "Sources/Courses/∑ 课程笔记.md",
-    "Sources/Courses/» 课程笔记工作流.md",
-    "Sources/Courses/在线课程MOOC/∑ 在线课程MOOC.md"
+    "Sources/Courses/» 课程笔记工作流.md"
   ]
 }

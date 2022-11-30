@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-11-30",
+      "path": "Calendar/Daily notes/2022-11-30.md"
+    },
+    {
+      "basename": "2022-11-29",
+      "path": "Calendar/Daily notes/2022-11-29.md"
+    },
+    {
       "basename": "HOMEPAGE",
       "path": "HOMEPAGE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "发文章-前言模板",
       "path": "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md"
-    },
-    {
-      "basename": "会议纪要模板",
-      "path": "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md"
-    },
-    {
-      "basename": "月度模板",
-      "path": "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md"
     }
   ],
   "omittedPaths": [],
