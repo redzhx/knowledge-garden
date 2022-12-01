@@ -1,10 +1,10 @@
 ---
-Title: {{title}} 
-Type: note, #Literature-Notes 
-Aliases: 
-Date: {{date:YYYY-MM-DD}}
-Statues: ToPrettify 
-Tags: 
+title: {{title}} 
+type: note
+aliases: 
+date: {{date:YYYY-MM-DD}}
+status: ToPrettify 
+tags: 
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-Title: {{title}} 
-Type: storycard
-Aliases: 
-Date: {{date:YYYY-MM-DD}} {{date:ddd}} {{time:HH:mm:ss}} 
-Statues: ToPrettify 
-Tags: 故事卡
+title: {{title}} 
+type: storycard
+aliases: 
+date: {{date:YYYY-MM-DD}} 
+status: ToPrettify 
+tags: 故事卡
 ---
 
 
@@ -19,10 +19,7 @@ Tags: 故事卡
 
 ### related:
 
+[[笔记完善思路]]
 
-%%
-#### Changelog:
-
-%%
 
 ![[knowledge-garden/Templates/笔记完善思路]]
