@@ -1,0 +1,248 @@
+---
+title: 191 Journaling prompts
+date created: 2022-05-11
+date modified: 2022-12-02
+---
+
+- [191 Journaling prompts](https://elaptics.co.uk/journal/191-journaling-prompts/#mindfulness)
+- Themes
+- [Gratitude & Reflection](#gratitude-and-reflection) / [Stoicism](#stoicism) / [Mindfulness](#mindfulness) / [Big Questions](#big-questions) / [Your Life](#your-life) / [Lists](#lists) / [If Questions](#ask-if-questions) / [Letters](#write-letters) / [Quotes](#quotes)
+- Gratitude and Reflection::
+	 - Thinking of the Week That Just Ended
+		 - Who made you feel good this week?
+		 - What was the biggest mistake you made this week?
+		 - What did you do this week that moved you closer to reaching your goals?
+		 - Is there anything you did this week that you wish you’d done differently?
+		 - What did you most enjoy doing this week?
+		 - How did you procrastinate on important tasks this week?
+		 - What did you learn today/this week?
+		 - What’s the funniest thing that happened to you this week?
+- Stoicism::
+	 - From the Daily Stoic here are 12 themes to mediate and journal on.
+	 - **Clarity** — Remember, the most important task is to separate the things that are in your control from those that are not in your control. To get real clarity about what to focus on in life. As Seneca put it, “It’s not activity that disrupts people, but false conceptions of things that drive them mad.”
+	 - **Equanimity** — To the Stoics, the passions were the source of suffering. “A real man doesn’t give way to anger and discontent,” Marcus Aurelius reminded himself, “and such a person has strength, courage and endurance—unlike the angry and the complaining.” Calmness is strength.
+	 - **Awareness** — Accurate self-assessment is essential. Know thyself, was the dictum from the Oracle at Delphi. Knowing your strengths is just as important as knowledge of your weakness, and ignorance of either is ego (as we show here). As Zeno put it, “nothing is more hostile to a firm grasp on knowledge than self-deception.”
+	 - **Unbiased Thought** — “Objective judgement, now at this very moment,” was Marcus’s command to himself. Our life is coloured by our thoughts, the Stoics said, and so to be driven by this bias or that bias—this delusion or that false impression—is to send your whole existence off-kilter.
+	 - **Right Action** — It’s not just about clear thoughts, but clear thoughts that lead to clear and right action. “First, tell yourself what kind of person you want to be,” Epictetus said, “then do what you have to do.” Emphasis on the do. Remember Marcus: “Don’t talk about what a good man is like. Be one.” This philosophy is for life, not for the ethereal world.
+	 - **Problem Solving** — Are you vexed by daily obstacles or do you throw yourself into solving them? “This is what we’re here for,” Seneca said. No one said life was easy. No one said it would be fair. Let’s make progress where we can.
+	 - **Duty** — “Whatever anyone does or says,” Marcus wrote, “I’m bound to the good…Whatever anyone does or says, I must be what I am and show my true colours.” He was talking about duty. Duty to his country, to his family, to humankind, to his talents, to the philosophy he had learned. Are you doing yours?
+	 - **Pragmatism** — A Stoic is an idealist…but they are also imminently practical. If the food is bitter, Marcus wrote, toss it out. If there are brambles in the path, go around. Don’t expect perfection. Be ready to be flexible and creative. Life demands it.
+	 - **Resiliency** — Do you want to count on good luck or be prepared for anything that happens? The Stoics had an attitude of “Let come what may” because they had cultivated inner-strength and resilience. Make sure you’ve done your training.
+	 - **Kindness** — Be hard on yourself, and understanding of others. See every person you meet, as Seneca tried to do, as an opportunity for kindness and compassion. Nothing can stop you from being virtuous, from being good. That’s on you.
+	 - **Amor Fati** — Don’t just accept what happens, love it. Because it’s for the best. Because you will make it for the best. A Stoic embraces everything with a smile. Every obstacle is fuel for their fire, to borrow Marcus’s metaphor.
+	 - **Memento Mori** — We’re strong but we’re not invincible. We were born mortal and nothing can change that. So let us, as Seneca said, “prepare our minds as if we’d come to the very end of life.” Let us put nothing off, let us live each moment fully.
+- Mindfulness::
+	 - Confusion
+	 - Change
+	 - Anger
+	 - Regret
+	 - Relationships
+	 - Happiness
+	 - Acceptance
+	 - Balance
+	 - Focus
+	 - Creativity
+- Big Questions::
+	 - Why do I feel such a need to be rich in the first place?
+	 - How do I choose to measure success/failure for myself?
+	 - Is it not perhaps some particular value that’s the root cause of my unhappiness, and not the fact that I don’t drive a Bentley yet?
+	 - What if I did the opposite for 48 hours?
+	 - What do I spend a silly amount of money on? How might I scratch my own itch?
+	 - What would I do/ have /be if I had 10 million? What’s my real Target Monthly Income?
+	 - What are the worst things that could happen? Could I get back here?
+	 - If I could only work 2 hours per week on my business, what would I do?
+	 - What might I put in place to allow me to go off the grid for 4 to 8 weeks, with no phone or email?
+	 - Am I hunting antelope or field mice?
+	 - Could it be that everything is fine and complete as is?
+	 - What am I missing right now that a more humble person might see?
+	 - What am I avoiding, or running from, with my bluster, franticness, and embellishments?
+	 - If you were reading this twenty five years from today, and reflecting on the events of those twenty five years, what has to have happened in your professional life for you to feel successful?
+	 - What challenges need to be overcome?
+	 - What opportunities need to be captured?
+	 - What strengths need to be leveraged?
+- Your Life::
+	 - Write about the Past
+		 - Write a letter to your older self
+		 - Write about your childhood
+		 - Write about lost friendships
+		 - Write about your school life, your grades, what you wish you had done differently
+		 - Write about turning points in your life – what would be different now if you had made a different choice
+		 - Write about regrets you may have
+	 - Write about the Present
+		 - Write letters to friends and family members about things you can’t say to them in person
+		 - Write letters to your boss or coworkers
+		 - Write about your friends, coworkers and family members, describing what they are like, what you like and dislike about each one, etc
+		 - Write about your job, pets, your home, etc
+		 - Write about your daily activities so you can look back and remember each moment
+	 - Write about the Future
+		 - Where do you want to be 5, 10, or 15 years from now?
+		 - What line of work do you plan on pursuing in the future?
+		 - Write down how you can improve your life
+		 - Write about children you \[plan to\] have, and what you wish for them
+		 - Write letters to your future children and grandchildren that you can give to them when they are older. These letters will help them understand the type of person you were at their age.
+		 - Write about places you wish to see, vacations you plan to have.
+		 - Write about home improvements you would like to make.
+		 - Make a bucket list.
+	 - Write about Yourself
+		 - What frightens you?
+		 - What brings you joy?
+		 - What makes you sad?
+		 - What worries you? Is there a pressing problem you need to work out?
+		 - Write a letter to someone that upset you, but you aren’t ready to confront in person.
+		 - Write down the things you wished you had said to your parents, or other loved ones before they passed away.
+		 - Write down confessions of your deep down secrets that you can’t tell anyone.
+		 - Nobody knows that I…
+		 - Dear \_\_\_\_, it weighs on me that I never told you…
+		 - The biggest lie I’ve ever told is…
+		 - Is there anything you feel guilty about? Is there anything you need to be forgiven for?
+		 - What’s the worst thing you’ve ever done?
+		 - What’s your secret desire?
+		 - What’s the most outrageous thing you’ve ever done?
+	 - Express Your Emotions
+		 - My saddest memory is…
+		 - Some of the things that make me happy are…
+		 - How do you deal with anger?
+		 - How easy is it for you to forgive those who have caused you pain?
+		 - What is the dominant emotion in your life right now?
+	 - Rituals and Traditions
+		 - My favourite Sunday ritual…
+		 - The holiday traditions I most look forward to…
+		 - Things I always did with my dad when I was small…
+		 - Things I always did with my mum when I was little…
+	 - Memories From Your Childhood
+		 - What was your favourite toy?
+		 - Did you ever get lost?
+		 - Who was your best friend in school?
+		 - Did you ever run away from home?
+		 - As a child, what did you want to be when you grew up?
+		 - What was your favourite subject in school?
+		 - Who was your favourite teacher?
+		 - What’s your first memory?
+		 - What was your favourite cartoon?
+		 - What book did you read over and over again as a child?
+		 - What is your most vivid memory of the kitchen in your childhood?
+		 - As a child, who was your favourite relative?
+	 - Landmark Events
+		 - Write about your first dance.
+		 - Write about your first crush.
+		 - Write about your first week in college.
+		 - Write about your first job.
+		 - Write about the first apartment or house you ever rented.
+		 - When did you feel truly independent for the first time?
+		 - How did you feel when your first child was born?
+	 - Family
+		 - Was there anything noteworthy about your mother’s upbringing (**she grew up in extreme poverty or extreme wealth; she grew up during the Great Depression; she grew up surrounded by artists, philosophers, or politicians; her family moved around a lot when she was growing up; and so on)**?
+		 - Write down three of your father’s favourites (**it could be his favourite singer, his favourite book or author, his favourite movie, his favourite time of the year, his favourite basketball player, his favourite artist, his favourite meal, his favourite dessert, and so on**).
+		 - Do you have any famous or high profile family members? If so, write about them.
+	 - An Ode To Your Uniqueness
+		 - What makes you unique?
+		 - How do you stand out from the crowd?
+		 - What are your best character traits?
+		 - What are you really good at?
+		 - How would you describe yourself?
+		 - How would your best friend describe you?
+		 - What character traits do you need to work on?
+		 - What are some of your idiosyncrasies?
+		 - How do you indulge yourself? Do you need to indulge yourself more often?
+		 - How do you think others see you when they meet you for the first time?
+	 - The Sky’s the Limit
+		 - What would you do if you knew you could not fail?
+		 - What would you do if money were no object?
+		 - What would you ask for if a genie granted you three wishes?
+		 - What’s your wildest dream?
+		 - What would you do if you could live a day without consequences?
+		 - What grand adventure do you wish you could go on?
+		 - If you could become an expert in any subject or activity, what would it be?
+		 - What would your perfect day be like?
+		 - Close your eyes and imagine the kind of world you would like to see. What is it like?
+	 - Your ideal life
+		 - Think about your ideal life. Ask yourself dream triggers, such as the following:
+		 - How would you like to make this world a better place? How can you best share your gifts with the world?
+		 - What qualities do you want in a romantic partner? What are the top ten characteristics that you look for in a romantic partner?
+		 - What are the top ten qualities a friend should have **(treats people with respect; listens but doesn’t judge; has a quirky sense of humour; is an artist; lives with passion; doesn’t sweat the small stuff; is loyal and trustworthy)**?
+		 - What would make you feel spiritually fulfilled?
+		 - What famous world festivals would you like to attend?
+- Lists::  
+This can be endless and can be interesting to look back at over time to see how your lists change.
+	 - Places you’ve enjoyed visiting
+	 - Things you’ve done that you previously thought you could never do
+	 - The people you most admire
+	 - Your favourite books
+	 - Your favourite movies
+	 - Your favourite songs
+	 - Your top five short term goals
+	 - Your top five long term goals
+- 3 Things
+	 - Three things you can’t go without.
+	 - Three celebrity crushes.
+	 - Three favourite book characters.
+	 - Three favourite things to wear.
+	 - Three things you want in a relationship.
+	 - If you had to evacuate your home because of a natural disaster, what three things would you take with you?
+	 - Three pet peeves.
+	 - Three things you’d do if you weren’t so afraid.
+	 - Three favourite TV shows.
+- 100 Things I Love
+	 - Make lists that will add up to 100 things you love. Make sure you give an explanation for each of the things you add to your list. For example, don’t just list your favourite restaurants, write down what you enjoy about each one (**the warm bread they serve before the meal, the waiter who always remembers your favourite dish, the whimsical decor, and so on**).
+	 - 10 Activities
+	 - 10 Restaurants
+	 - 10 People
+	 - 10 Foods
+	 - 10 Games
+	 - 6 Drinks/Beverages
+	 - 4 Desserts
+	 - 10 Paintings
+	 - 10 Web Sites
+	 - 10 Writers
+	 - 10 Famous lines from books/movies
+- The Most…
+	 - The most terrifying moment of my life was…
+	 - The most fun I’ve ever had…
+	 - The most surprised I’ve ever been…
+	 - The most fun I’ve ever had…
+	 - The most disappointed I’ve ever been…
+	 - What are you looking forward to the most?
+- Ask “If” Questions
+	 - These prompts were inspired by the “If…” books.
+	 - If you could have dinner with anyone currently alive, who would it be?
+	 - If you could meet any fictional character, who would it be?
+	 - If you could change one thing about your present life, what would it be?
+	 - If you could live anywhere you wanted, where would you live?
+	 - If you could go back in time and change one things from your past, what would it be?
+	 - If you could spend one whole night alone with anyone in history, whom would you choose?
+	 - If you could suddenly possess an extraordinary talent in one of the arts, which would you like it to be?
+	 - If you could commit one crime without being caught, what crime would you commit?
+	 - If your plane were about to crash and you had time to write one quick note, to whom would you write, and what would you say?
+	 - If you could run any single company, institution, or organisation in the world, which would you choose?
+	 - If you found out for certain there is a Heaven and a Hell, how would you change your life?
+	 - If you had to name the one thing that most frightens you about growing old, what would it be?
+	 - If you could have only one part of your body massaged every day, what part would you choose?
+	 - If you could have any view in the world visible from your bed, what would it be?
+	 - If you could suddenly find out that one work of fiction was actually true, what book would you select?
+	 - If you could name the sexiest words anyone could say to you, what would they be?
+	 - If you could put anyone you know on Prozac, who would you choose?
+	 - If you could be the house cat or lap dog of any person on earth, whose would you choose to be?
+	 - If you were God for a day, what would you do?
+	 - If you had to remember the moment in your life when you felt the most alone, when would it be?
+	 - If you were to name one event that most challenged your relationship with your family, what would you say?
+- Write Letters
+	 - Write a letter to someone you need to forgive.
+	 - Write a letter to someone who believed in you even when you didn’t believe in yourself.
+	 - Write a letter to be read by each of your loved ones after you’ve passed away.
+	 - Write a fan letter to your favourite actor/actress.
+	 - Write a letter to the editor of your favourite magazine telling them what features you would like to see included in the magazine.
+	 - Is there something you’re reluctant to tell someone? Write a letter to help you organise your thoughts.
+- Quotes
+	 - Look at the following quotes and write whatever comes to mind when you read them:
+	 - **“If your daily life seems poor, do not blame it; tell yourself that you are not poet enough to call forth its riches.”** — **Rilke**
+	 - **“I have always imagined that Paradise will be some kind of library.”** —**Jorge Luis Borges**
+	 - **“Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one.”** — **Jane Howard**
+	 - **“What in your life is calling you? When all the noise is silenced, the meetings adjourned, the lists laid aside, and the wild iris blooms by itself in the dark forest, what still pulls on your soul? In the silence between your heartbeats hides a summons, do you hear it? Name it, if you must, or leave it forever nameless, but why pretend it is not there?”** — **The Terma Collective**
+	 - **“Art is when you hear a knocking from your soul and you answer.”** — **Star Richés**
+- References
+	 - [Daily Stoic](https://dailystoic.com)
+	 - [Sunday Scribblings](http://sundayscribblings.blogspot.com/)
+	 - [Dream Triggers](http://marelisa-online.com/guidebook-of-dreams/ebook.php) .
+	 - [Create Your Life Story](http://marelisa-online.com/create-your-life-story/ebook.php)
+	 - [If… (Questions For The Game of Life)](http://www.amazon.com/gp/product/0679445358?ie=UTF8&tag=marelonlin-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0679445358)
+	 - [Tim Ferriss: 17 Questions That Changed My Life](http://fourhourworkweek.com/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/)
