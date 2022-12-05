@@ -195,10 +195,6 @@
     {
       "basename": "Daily notes模板",
       "path": "Extras/Templates/Calendar模板/Daily notes模板.md"
-    },
-    {
-      "basename": "发文章-前言模板",
-      "path": "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md"
     }
   ],
   "omittedPaths": [],
