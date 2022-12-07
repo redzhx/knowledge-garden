@@ -1,5 +1,5 @@
 ---
-title: WOOP：wish,outcome,obstacle,plan。
+title: WOOP：wish outcome obstacle plan。
 Aliases: WOOP方法, 执行意图与心理对比
 tags: [最小知识, 习惯养成, 生产力指南]
 date created: 2022-05-11
