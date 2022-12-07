@@ -11,7 +11,6 @@ title: 本库涉及外部app调用的工作流
 ## 信息输入
 
 - [打开reeder RSS阅读](reeder://)
-- [打开简悦稍后读](obsidian://shell-commands/?vault=knowledge-garden&execute=0)
 - [打开Cubox剪藏](cubox://)
 - [打开微信读书](obsidian://shell-commands/?vault=knowledge-garden&execute=2)
 
