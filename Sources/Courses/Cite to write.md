@@ -1,0 +1,213 @@
+---
+tags: [DONE, 课程笔记卡, 知识卡]
+aliases: 
+title: Cite to write
+date created: 2022-05-11
+date modified: 2022-12-09
+---
+
+- Metadata::
+	 - Status：[[April 30th, 2022]]-[[May 1st, 2022]] 速速刷完 #DONE
+		 - 收获：
+			 - Zotero和Roam的联动完全好用了。直接引用Zorero保存的文献内容， 再也不用手动输入文献属性。 省力❗️
+			 - Roam Discourse 可以建立问题和论据的关系。 论文草稿神器。 对我来有点大才小用。不过思路很有启发。
+				 - 问题： 和[[Beau Haan]] 的思路不大一样。 怎样统合两者为我所用呢？ #ToPrettify
+- Foundation I – Reference Management
+	 - [🔗](https://learn.cortexfutura.com/courses/cite-to-write-v2/lectures/35427576)
+	 - Sources and Citekeys(9:20)
+		 - [00:00:00] In this video, I'm going to talk a little bit about sources and cite keys, what they are, why you should use them and what powerful things you can do with them generally in academia, as you know, The source of your information matters, right? The origin of where you get your information from is very important.
+		 - [00:00:26] A full literature review. For, for anything basically. Right. And what's an, a source in this context, it's books from the literature papers interviews your doing or others have done, but also depending on your field of study movies and similar types of media. And when you refer to them, you always have to.
+		 - [00:00:52] Not explicitly where you got information from, we all know about how [00:01:00] bad plagiarism is. None of us want that and the source for and the whole plagiarism debate and for why we always refer to our sources is For interesting reasons. So in the mention of signs, David wooden talks about how this goes back to the 15 hundreds when the first priority disputes in science started and came up where it started to matter who discovered something first, right.
+		 - [00:01:34] And. He tells an interesting story of Galileo rushing his book to make sure like God in time to the Frankfurt book fair spring book fair too, to make a big splash and for him to be the first who And announced his discoveries and not be scooped by others and that race as you know, is still going on today.
+		 - [00:01:56] And I highly recommend that you read [00:02:00] the invention of science. It's a fantastic book as a quick aside here, but If you want to talk about where information comes from, you need the information, right? He, a picture of how that used to be done. Just like 30, 40 years ago and like small paper index cards.
+		 - [00:02:20] That were used to save the bibliographic information. Luckily we don't have to do that anymore. You're likely using and node or a Mandalay or as a taro already, but often it's still quite cumbersome to compile all these different things and then make the output Look nice as well, right?
+		 - [00:02:45] Because it's not just about having that information, but of course you have to then present it in your papers and that can be super annoying and take a lot of time. And so let me maybe paint a [00:03:00] picture of a reference utopia here. And let's say. I told you that there's a way that you press a button and all the information about the source is collected for you.
+		 - [00:03:12] You refer to that source by a unique name in all of your writing, no matter where you do it at the end, you press one button and all your references are neatly compiled. You have to, you don't have to touch anything else. And that this system is free and works across operating systems. So whether you use windows, Mac, iOS, or Linux, doesn't matter at all.
+		 - [00:03:41] Sounds kind of crazy, right? If you're still compiling things at the end by hand copy pasting from your reference manager or using tools. And if you're using end note and note is expensive. So doing it for free is definitely I [00:04:00] think a nice feature as well. So let me show you how that process. We start here on the Google scholar page, as you do as a scientist doing literature research, we're looking for a book, Robert Sapolsky here, behave, and then we're importing that book, all the information is collected and.
+		 - [00:04:28] Ends up in Zotero and here we get that unique name that we're going to reefer to this source by in the future. 27 and behave. This is what we're going to use. And I'm going to show you how that looks. We're actually switching directly into Rome here. Here you see in this sentence we start this [00:05:00] with the sign in front of that unique name for our source.
+		 - [00:05:05] So it's and then we're exporting this into a text file, right? So we refer to. The source. We put an at sign in front of it, and then we exported from Rome. And now the final piece of the workflow. We're opening this document in here. You already see it's not the at sign and that name anymore. It's nicely formatted.
+		 - [00:05:34] We click one button and we get to word document where not only do we have nicely formatted again. The author's name and the year in parentheses as the citation style in political science requires, but we also have the nicely formatted citation ready to be put into a [00:06:00] bibliography that was super easy.
+		 - [00:06:03] Wasn't it? And this is basically the. Literature workflow that we're going to use, that I'm going to teach you throughout this. We're going to obviously cover more stuff as well. But this is the flow from, Hey, I'm collecting information into my system and I'm outputting a word document. I'll also show you how to do that for PDFs that I can send around to colleagues for feedback and all of that without any.
+		 - [00:06:40] Manual formatting of sources. Now what's this magic name that we've been using here. That's called a psyche which originally came from the LayTec world. But as you saw, we can use them in a text to word work. As [00:07:00] well there's multiple ways of setting them up. I like mine to be author's last name year of publication and first word of the title.
+		 - [00:07:12] But there's a million ways. You can set that up. That's completely up to you for me. This is kind of the short and nice version of having that. Um, Finding and referencing the right source, much easier than other ways. And as you saw, it allows universal conversion. We went from writing and using this in Rome to exporting it to a text file to making a word file out of it.
+		 - [00:07:40] You can make a PDF or HTML file out of it. You can basically use this to compile. Nicely formatted citations anywhere. And that's. It for now. Right? This was supposed to be a short introduction. We're talking about. We need to [00:08:00] reference where our information comes from to make our own life easier. We're using site keys for that, and that in the end enables a workflow that saves us as much time as possible.
+		 - [00:08:12] Terms of compiling and formatting, RSA stations. You need a couple of tools for this, and I'm going to show you how to install them specifically in the next video, I'm going to show you how to install Zotero and a couple of extensions. And in later videos we'll cover other tools as well. One note on Zotero, I'm showing you the terrorist specifically because it works really nicely together with.
+		 - [00:08:44] And because you can enable site key support and it's free and it works across platforms. So it's kind of a magical piece of software. And if you're using EndNote or Mandalay, you [00:09:00] might be able to replicate some parts of this workflow, but I highly encourage you to try out Zotero and see whether that is something.
+		 - [00:09:10] Willing to switch to given how powerful it is. See you in the next video where we'll install Zotero.
+		 - ![image-20220429215015022](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220429215015022.png)
+	 - Installing Zotero, BetterBibtex, and Zotfile
+		 - **Note: **below the main video for this lesson I've added a short addendum where I explain how to "pin" citekeys in Zotero. We'll need this later, so make sure you scroll down and watch that video as well.
+		 - [Download Zotero here](https://www.zotero.org/)
+		 - [BetterBibTex](https://retorque.re/zotero-better-bibtex/)
+		 - [Zotfile](http://zotfile.com/)
+		 - 13:03
+		 - 10:25
+		 - Pinning Citekeys
+			 - In order for us to import data from Zotero into Roam later on, we need to do one more thing: we need to "pin" the citekeys that BetterBibTex generates for us.
+			 - Check out the video below for how to accomplish this:
+			 - The video is loading…
+			 - 0:00
+			 - 0:00
+		 - Transcript
+			 - [00:00:00] In this video, I'm going to show you how to install a Zotero and a couple of ad-ons to make your reference management super easy. As you saw in the last video, the workflow we're setting up here makes it incredibly easy to. Refer to sources and spend as little time as possible on then on the export formatting your sources, it bibliographies
+			 - [00:00:31] again, wiser tarot, it's free. It works on windows, Mac, and Linux. It's very extensible and works great with a Rome. And as you saw. With the Zotero connector it makes adding new sources, incredibly simple. It's really just one click of a button. Here are the relevant links. I'm going to show you these at the end of the video again as well.
+			 - [00:00:58] And you'll have them under [00:01:00] this video as direct links, we're going to be installing zoom. Better BIP tech and Zot file. And so let's simply get into it. This is the Zotero website. You click download. It will automatically download the right version for your operating system. And you follow the instructions for that.
+			 - [00:01:24] And you should be good to go. Once you have. That's you'll see this screen. This is what you see the first time you opened up a Zotero and I'll walk you through the process of setting up the connector. So download the connector. Here, I'm downloading it for Google Chrome. I added to Chrome. I have to hit add existing.
+			 - [00:01:51] And then in the upper, I have to click on that little icon so I can pin the Zotero [00:02:00] connector to the side of the address bar. It went over really quickly, but there was also. A little note here on the shortcut, which you can see here. If you hit command shift S you don't have to click that button, you to collect a source.
+			 - [00:02:23] It will do that then based on that shortcut, but I'm going to show you that here next. Hm. Here, we're now on the Google scholar page, and I'm going to search for a couple of texts here. This is from important authors in political science designing social inquiry 12,000 citations, as you can see, kind of, important here from a methods standpoint and you saw, I clicked the aching in the upper right.
+			 - [00:02:54] Save that information. Same here. King pen and Roberts. Super interesting paper [00:03:00] on center. Just to get the flow here. I hit the shortcuts and Albert Einstein. We can take something from him as well. Let's pick the theory of relativity and we're click the connector. I can, again, select the source we want, you can obviously select multiple sources as well, and that's getting saved to the so taro library, and this is all the stories.
+			 - [00:03:28] Now you have in there, what you see we don't have here yet that you saw me use early era is on the psyche. In the last video I showed you the psyche key for each of these sources. And in that example, that psyche was already generated by Zotero for us. But to make that happen, we have to install the better BIP tech extension.
+			 - [00:03:55] So let's say. This is the website afforded again, [00:04:00] it's linked under this video, you click simply on latest release and then you download the XPI file. That's going to take a couple of seconds. And in that time you can head back over to Zotero and then in the menu bar to tools, and add-ons where you are then click on install, add on from.
+			 - [00:04:22] Can you pick that from your downloads folder, click open. You have to say that you trust this, you can trust it. And then you restart the Zotero on the first open. It's going to tell you I have some new stuff here and it needs to restart again. So you simply click restart now and Now when you open it, you see, it's already having on, on the right side, there's a sidekick column and it.
+			 - [00:04:51] Creates these well, we want to do is export the library so that we can use it later when we compile our references for [00:05:00] that we're picking the better a BIP tech format and click. Okay. And I'm going to put it in my downloads folder simply for convenience here. Co-lead my libraries. Nothing important to you.
+			 - [00:05:17] You obviously put it into a location on your computer. That makes sense. And if you open it up, this is how BIP tech files look not super important, but you see, we have our three sources in there.
+			 - [00:05:29] One important thing to note is that you. Don't want to open this up using. A DoubleClick because that's just going to open it up in Zotero again, instead you want to right. Click this file and open it up in a text editor. Such as text edit or notepad or something. In case you want to locate it double clicks just we'll open it up in zotero again Now we do a one to two. [00:06:00] Uh, just a couple of settings. One thing I like is to have the citation key format set up like this as you sign in the previous video.
+			 - [00:06:12] So the authors name in lower case than the year, and then just the very first word of the title that isn't the, or a and use that as the site key. You can completely edit this to your liking. There's a reference for how to do this on the better BIP tech site. You want to keep the keys unique across all your libraries.
+			 - [00:06:36] And for me, a quick hub, a quick copy drag and drop citations. I like hand doc on the export page. You shouldn't need to adjust too much. I think this is all the way. Always looks like and should look like automatic export on change. We're going to see that work in a minute. [00:07:00] So keep that on change, make sure that is what's selected.
+			 - [00:07:05] And then for.
+			 - [00:07:09] Here the data directory location. You can take a note of that now, already. We're going to use that in the future. So, just so you know where that is that depends obviously on your computer system, we're going to talk about these translators in a future video, just so you've seen that once.
+			 - [00:07:31] Good. Let's do the keep updated part here. So when we exported the library, the last time we didn't check this box, keep updated. So we did a one-time export of our library. This time we're going to keep it updated and I'm still going to Keep it actually, no, let me put it into a more permanent location like you would do.
+			 - [00:07:56] I'm going to call this references. [00:08:00] Dutch bib bib is the file extension that you, that the file will have, you don't have to actually type it in. And now if. Look at that file. All of these three sources of course are going to be in there as they were previously. Right. This is what we had earlier in the library.
+			 - [00:08:24] My library fell as well. So to show you how the keep updated thing works I'm going to. Look at Robert Sapolsky, his work again, this time we're going to import why zebras don't get all sorts with the familiar connector process. And that gets added to the Zotero library. As you can see on the right, you see the citation key suppose key 2004 Y.
+			 - [00:08:50] And now if we look into the BIP file, you see it has been. And that's very good because for when we want [00:09:00] to compile things to what files that is going to rely on that dot BIP file. And he, you see, where you saved it. Output file is in documents references, dud, bib and every time you save something to you as a terror library, that's going to get updated and will be ready for you to use in your work.
+			 - [00:09:22] Good. The final thing we're going to install here is Zot file. There as always, you're also going to download the file and then click install, add on from file. And this is what you then pick from the picker here. Again, you have to confirm then restart. And Zot file. We'll take care of managing your PDFs for you.
+			 - [00:09:50] So if you have a source in Zotero, you can simply drag and drop the file onto that source and zip file. We'll manage it for you. And [00:10:00] can also export annotations from these PDFs for you for zip file. I'll also like to look at. Preferences. Let me see where they Right. They have them here on the tools, not felt preferences.
+			 - [00:10:15] And here you can designate a folder that always attaches files automatically. I don't trust that really. So it's empty. What I do want is a custom location. Where's that file will sort the PDFs to, so I don't want to manage my PDF files manually. I'm going to in documents, make a new folder, call it papers.
+			 - [00:10:40] And that's where Zott file will put all my papers. I like sub folder structure defined just by the author's name. But again, you can use the default or look at the references for how to set it up to your taste. Doesn't matter at all. I also like to name the files [00:11:00] after their psyche. This is what the percentage B is for.
+			 - [00:11:04] So if you have BIP tech installed better BIP tech then. can use that as an argument and call the file a PDF for the suppose. Key thing, for example suppose Q 2004, how dot PDF and the additional settings here. Again, these are my preferences. I found those very useful. I only want one author there.
+			 - [00:11:29] I don't want at all mentioned. And that sort of thing, but again, this is taste and preference, so you're perfectly free to choose whatever you want here. And I think those are the preferences I would want to set. And with that we're finished installing Zot file. Good. That was basically it.
+			 - [00:11:58] Feel free to rewatch and [00:12:00] rewind and use this video as a reference for how to install it again. Here's the relevant links. You need a Zotero, better BIP tech and lot file. And. Then your on the reference management site completely set up for the workflow with that a demo mode in the last video, we're now going to move on to room research.
+			 - [00:12:21] I'm going to show you how Rome research works. I'm going to then show you how to get information from Zotero into Rome research. And we'll talk a little bit about processing your notes and information, and at the end of. Put a little bow around the whole thing and take what we've then written in Rome and export it with a nicely formatted bibliography without any further interaction on our part.
+			 - [00:12:50] And get to a word or PDF file out of it as you saw me do in the previous video. So that's on that's everything on reference management, [00:13:00] and now we'll head into.
+- Foundation II – Getting Started With Roam
+	 - [🔗](https://learn.cortexfutura.com/courses/cite-to-write-v2/lectures/35427607)
+	 - The Daily Page in Roam
+	 - The Three Ways to use Blocks in Roam
+		 - ()
+		 - alias
+		 - embed
+		 - 缩进的用法。 缩进的内容support上一层级内容, focus block 的时候， 缩进的内容都可以带出来。
+	 - Creating Links, Tags, and Pages
+		 - **Quote里的内容不link, 而是在下面加一行link，避免以后改动page name的时候污染了Quote原文。自己的话则直接在原文里link page。**
+		 - ![image-20220430103813436](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430103813436.png)
+		 - ![](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430104152021.png)
+	 - Even more a·bout Blocks in Roam
+		 - **control+shift+9 block search **
+			 - ![image-20220430105435813](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430105435813.png)
+			 - 在特定位置搜索到想要的block
+	 - Useful Shortcuts
+	 - Math and Formulas in Roam (LaTeX)
+- Foundation III – Extending Roam
+	 - [🔗](https://learn.cortexfutura.com/courses/cite-to-write-v2/lectures/35427565)
+	 - Extending Roam
+		 - [Click here to get to the Marketplace extension on RoamJS](https://roamjs.com/extensions/marketplace)
+	 - Setting up Zottero Roam
+	 - Setting up SmartBlocks
+		 - 安装copy quote smartblock 看起来挺好用
+	 - Setting up the Discourse Graph Extention
+- Workshop I – October 14th
+	 - Recording of Workshop I – 5am UTC Session
+	 - Recording of Workshop I – 1pm EDT Session
+- Literature Loop II – Reading for Synthesis (release: Oct. 24th)
+	 - [🔗](https://learn.cortexfutura.com/courses/cite-to-write-v2/lectures/35462598)
+	 - Active Reading
+		 - ![image-20220430172925249](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430172925249.png)
+		 - Active Reading #[[知识卡]]
+			 - A DEFINITION
+				 - Active Reading is reading for information and learning.
+				 - You sit down to read actively because you want the information that's contained in the book or paper that you are reading.
+				 - You're not reading just for the joy of reading itself.
+				 - You take notes on what you're reading, actively processing the material.
+			 - TWO IMPORTANT POINTS
+				 - The worst kind of note-taking is just highlighting stuff in the original source and then…nothing.
+				 - Instead, you want to explicitly write down why you're reading a source and what exactly you hope to get out of reading it.
+			 - TEMPLATE
+				 - ![image-20220430173814080](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430173814080.png)
+			 - SUMMARY
+				 - There's a difference between active and passive reading, and the more informational utility you want to get out of a given source, the more actively you should read it.
+				 - Active reading requires you to engage with the source by taking notes. The format in which you take the notes doesn't matter, but you need to take them
+				 - Pay attention to whether you're reading "the right way" given what you're reading for
+			 - ACTION STEP
+				 - ^^Go through 3 of your source pages and make sure they are linked to at list one question page. ^^
+	 - Preventing Highlight Dementia
+		 - Reasons to take notes
+			 - TAKING NOTES
+				 - forces you to actively engage with the material
+				 - creates a starting point for forming memories / active recall
+				 - has the potential to compound in value over time
+		 - **Two rules**
+			 - never just highlight
+				 - The black hole oof any note-taking
+			 - connect your notes
+				 - helps you remember
+		 - Two Workflows of Note-Taking
+			 - ASYNCHRONOUS ACTIVE READING
+				 - read, highlight and comment within the source material
+				 - revisit and process later
+			 - SYNCHRONOUS ACTIVE READING
+				 - read with Roam open
+		 - Asynchronoous Active Reading
+			 - upsides
+			 - common error highlightt dementia
+			 - ![image-20220430211210180](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430211210180.png)
+		 - Synchronous Acttive Reading
+			 - ![image-20220430213311162](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430213311162.png)
+		 - Keep in mind while reading
+			 - ![image-20220430213859980](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430213859980.png)
+	 - Inspectional Reading
+		 - ![image-20220430214117436](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430214117436.png)
+		 - ![image-20220430214223016](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430214223016.png)
+		 - ![image-20220430214302042](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430214302042.png)
+	 - Analytical Reading 分析阅读
+		 - ![image-20220430215024454](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430215024454.png)
+		 - Analytical Summary
+			 - ![image-20220430215231120](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430215231120.png)
+		 - Important concepts
+			 - ![image-20220430215330571](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430215330571.png)
+		 - propositions
+			 - ![image-20220430220223418](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430220223418.png)
+		 - Argument
+			 - ![image-20220430220326745](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430220326745.png)
+		 - Action step
+			 - Use the template to do some analytical reading
+	 - Syntopical Reading 综合阅读
+		 - ![image-20220430220620084](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430220620084.png)
+		 - ![image-20220430221439245](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430221439245.png)
+	 - Demo: Reading and Processing a Paper
+		 - SYNTHESIS
+		 - SOURCES
+		 - EVD,CLM,QUE
+		 - GROUNDING CONTEXT
+		 - INSPECTIONAL SUMMARY
+	 - Keeping up With the Field
+		 - ![image-20220430223439719](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430223439719.png)
+		 - ![image-20220430223708227](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430223708227.png)
+		 - feedly.com
+	 - Workshop III – October 28th 暂时跳过
+		 - [🔗](https://learn.cortexfutura.com/courses/cite-to-write-v2/lectures/35462800)
+	 - Literature Loop III – Synthesis #太难了
+		 - [🔗](https://learn.cortexfutura.com/courses/cite-to-write-v2/lectures/36076018)
+		 - Defining Discourse Grammars
+			 - ![image-20220430224928314](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430224928314.png)
+			 - QUE
+			 - CLM
+			 - EVD
+		 - Synthesis with Playgrounds
+			 - [[Playground: Decision Making]]
+		 - Synthesis on a Question Page
+		 - Source Claims vs. Literature Claims
+	 - Writing
+		 - Eliminating Writer's Block
+			 - ![image-20220430232139588](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430232139588.png)
+			 - Knowing what to say
+				 - ![image-20220430232209191](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430232209191.png)
+			 - Knowing how tto say it
+				 - ![image-20220430232300256](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430232300256.png)
+			 - Writing it
+				 - ![image-20220430232415707](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430232415707.png)
+			 - Editing
+				 - ![image-20220430232454278](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430232454278.png)
+			 - recap
+				 - ![image-20220430232648157](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/image-20220430232648157.png)
+		 - Writing a Paper in Roam
+		 - [[[[EVD]] - Exporting from Roam - ]]

@@ -13,15 +13,13 @@ jumps:: [[🤖notion]]
 ### 技巧
 
 [[obsidian与alfred联动]]
-
 [[obsidian的中括号搜索的技巧]]
+[[obsidian一键生成豆瓣读书笔记]]
 
 ### 其他
 
-
-
 目前， roam用来思考， obsidian用来输出。 
-roam的内容可以更杂乱，连接颗粒度更小；obsidian的卡片可以拼凑出可发表文章80%的内容。
+roam的内容可以更杂乱，连接颗粒度更小；obsidian的卡片可以拼出可发表文章80%的内容。
 
 ---
 
