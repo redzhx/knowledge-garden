@@ -10,7 +10,11 @@ title: 🤖notion
 
 ## 技巧
 
-[TinyURL.com - shorten that long URL into a tiny URL](https://tinyurl.com/app/myurls)
+- [TinyURL.com - shorten that long URL into a tiny URL](https://tinyurl.com/app/myurls)
+ - [[Notion boost插件]]，实现notion 显示固定的大纲目录。
+ -  [[Notionplus插件]]同步影视封面 
+ - [[Chart Nerd]] 
+
 
 ## 使用范围
 
