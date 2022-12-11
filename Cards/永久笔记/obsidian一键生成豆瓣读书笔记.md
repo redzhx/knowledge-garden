@@ -14,4 +14,4 @@ git代码：
 [myScripts/DoubanAllInOne at main · LumosLovegood/myScripts · GitHub](https://github.com/LumosLovegood/myScripts/tree/main/DoubanAllInOne)
 
 备注：
-发布quarts前需要去掉所有双引号，这个script插件要求加双引号以避免特殊符号出错。 比较麻烦，暂时需求不大，时间成本最小优先， 如果具备更多代码能力再调整。 #待办/某天 
+发布quarts前需要去掉yaml区域的所有双引号，这个script插件要求加双引号以避免特殊符号出错。 比较麻烦，暂时需求不大，时间成本最小优先， 如果具备更多代码能力再调整。 #待办/某天 
