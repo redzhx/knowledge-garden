@@ -12,10 +12,13 @@ agent和agency很难在中文中找到对应的词汇，在不同的语境中，
 
 在我的阅读范围内， 这两个词主要出现在心理学和哲学领域。 
 
-agent：能动者， 施动者
+agent：能动者， 施动者，行动者
 agency：能动性，施洞能力
 
 
 [[Wikipedia]]这样解释：
-"Agency" refers to the capacity of individuals to act independently and to make their own free choices, based on their will, whereas "structure" refers to those factors (such as social class, but also religion, gender, ethnicity, subculture, etc.) that seem to limit or influence the opportunities that individuals have.
+"Agency" refers to the capacity of individuals to act independently and to make their own free choices, based on their will, 
 
+### 我的感受
+
+行动者是最舒服的词汇。这个词汇很常见， 通过上下文 ，也能引申出作者想借用这个词表达的意思。 独立的个体， 有按照自我意愿行动的能力， 

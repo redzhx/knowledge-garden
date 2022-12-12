@@ -26,18 +26,6 @@ banner: {{VALUE:coverUrl}}
 距离第一次看《{{VALUE:name}}》已经过去了==`=(date(today)-this.BeginDate).days`==天
 此刻有什么新[[#想法]]呢？
 
-````ad-blank
-title: 这段时间里阅读的其他书籍：
-icon: book-open
-
-```dataview
-list "开始阅读于 "+BeginDate
-from #book 
-where BeginDate>=this.BeginDate & file.name!=this.file.name
-```
-````
-[[Books|查看完整书单]]
-
 ---
 # {{VALUE:name}}
 
@@ -58,3 +46,16 @@ where BeginDate>=this.BeginDate & file.name!=this.file.name
 > {{VALUE:quote2}}
 
 ## 想法
+
+
+````ad-blank
+title: 这段时间里阅读的其他书籍：
+icon: book-open
+
+```dataview
+list "开始阅读于 "+BeginDate
+from #book 
+where BeginDate>=this.BeginDate & file.name!=this.file.name
+```
+````
+[[Books|查看完整书单]]
