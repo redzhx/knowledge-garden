@@ -47,15 +47,12 @@ banner: {{VALUE:coverUrl}}
 
 ## 想法
 
-
-````ad-blank
-title: 这段时间里阅读的其他书籍：
-icon: book-open
+> [!NOTE] 📖这段时间里阅读的其他书籍:
 
 ```dataview
 list "开始阅读于 "+BeginDate
 from #book 
 where BeginDate>=this.BeginDate & file.name!=this.file.name
 ```
-````
+
 [[Books|查看完整书单]]

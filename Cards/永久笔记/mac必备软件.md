@@ -44,7 +44,7 @@ title: mac必备软件
 | [[🤖obs]]              | 直播，录屏，开源                          | 4    | icloud 同步，手动导出               | y          |            |
 | [[lx-music-desktop]]   | 全网音乐聚合搜索下载                      | 3    | icloud 同步，手动导出               |            |            |
 | [[reeder]]             | [[RSS]] 阅读                              | 4    | icloud 自动同步                     | y          |            |
-| [[zotero]]             | 文献引文 pdf 阅读神器                     | 4    | zotero 账号                         | y          |            |
+| [[Zotero]]             | 文献引文 pdf 阅读神器                     | 4    | zotero 账号                         | y          |            |
 | [[cleanMyMac X]]       | 清理与卸载                                | 3    | 不需要                              |            |            |
 | [[office]]             | 比 wps 兼容性还是好一些                   | 3    | 不需要                              |            |            |
 | [[xmind]]              | 大纲与[[思维导图]]                        | 3    | 不需要                              |            |            |
