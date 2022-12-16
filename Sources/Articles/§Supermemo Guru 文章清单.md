@@ -1,5 +1,5 @@
 ---
-tags: 待办/某天
+tags: 
 aliases: 
 title: §Supermemo Guru 阅读清单
 date created: 2022-12-16
@@ -18,3 +18,4 @@ Awesome⭐️⭐️⭐️⭐️⭐️
 	- 100 bad habits learned at school - supermemo.guru. (2022). Retrieved 16 December 2022, from https://supermemo.guru/wiki/100_bad_habits_learned_at_school
 	- [学校让人沾染上的 100+ 恶习 - 知乎](https://zhuanlan.zhihu.com/p/559705516)
 ‌
+#待办/某天

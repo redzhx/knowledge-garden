@@ -1,7 +1,6 @@
 ---
 tags: [读书笔记, reference, 术语卡]
 aliases:
-  - 
 title: 希望回路(Hope Circuit)
 date created: 2021-12-22
 date modified: 2022-12-16
