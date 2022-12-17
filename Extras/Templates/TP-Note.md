@@ -3,26 +3,28 @@ title: {{title}}
 type: note
 aliases: 
 date: {{date:YYYY-MM-DD}}
-status: ToPrettify 
 tags: 
 ---
 
 
 
 
+## 出处
+
+
+
+## 用途
 
 
 
 
+## 我的想法
 
 
 
+## References
 
 
-ref
 
-%%
-Changelog:
-- [[{{date:YYYY-MM-DD}}]]
-%%
+## 相关
 

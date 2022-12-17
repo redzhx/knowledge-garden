@@ -1,14 +1,9 @@
----
-title: {{title}} 
-type: moc
-date: {{date:YYYY-MM-DD}} {{date:ddd}} {{time:HH:mm:ss}} 
-status: #tocomplete  
----
+
 # ⚡️Zettelkasten moc
-## [[Relevant Notes]]  (index tag) 
+## Relevant Notes (index tag) 
 %%Insert relevant notes +connective tag and elaborate on connection%%
 
-## [[Permanent Notes]]  
+## Permanent Notes  
 %%(Atomic title, delarative statement/claim) 
 Keywords::  Tags ((in which circumstance do I want to find this note? What would I google for to find this note(not a general single term)?, when and how will I use this idea?))%%
 
