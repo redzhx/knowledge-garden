@@ -1,6 +1,6 @@
 ---
 tags: 
-aliases: 在学校养成的100个坏习惯
+aliases: 学校陋习100+
 title: 100 bad habits learned at school - supermemo.guru. (2022)
 date created: 2022-12-16
 date modified: 2022-12-16
@@ -9,7 +9,7 @@ date modified: 2022-12-16
 # 100 bad habits learned at school - supermemo.guru. (2022)
 
 ## 100 bad habits learned at school - supermemo.guru. (2022)
-
+学校陋习100+
 在学校养成的100个坏习惯[^1]
 [[Thoughts Memoh 汉化组]]发布在知乎的翻译[[学校让人染上的100+恶习]]
 
@@ -31,75 +31,29 @@ At the core of the error of schooling is the quest to do more and to do it faste
 
 ## 3 学校习惯
 
-### 3.1 技能与习惯
-
-学校模式不符合大脑[[概念网络]]的运行原理。
-
-学校培养的习惯可以转化为有用的技能， 但不一定是对个人有益的。 
-
-例如， 必要时尽职尽责地服从权威是一种技能。但顺从权威不是一种有益的习惯。对外科医生来说，清晨及时起床是有用的。但是，使用闹钟不是一种有益的习惯。知道如何从头到尾地阅读一本珍贵的书是有用的。然而，很多书并不是从头到尾都是有用的，总是从头到尾读完书不是一种有益的习惯，更不应该当作目标来追求。及时舍弃一本不好的书也是一项重要技能。
-
-🌱我们离开学校后， 经受了社会的毒打， 往往需要花费数年的时间来改掉这些习惯，以适应个人发展的需求。 
-
-### 3.2 坏习惯数不胜数
-
-[[学习的基本规律]]里有一句话可以解释所有学校里的坏习惯：
-
-大多数学校习惯错在源不理解[快乐学习](学习之乐趣)的重要性。
-Most of bad school habits stem from the lack of understanding of the **computational** importance of the [pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning "Pleasure of learning")
-
-### 3.3 Universal habits 普遍习惯
-
-我们进入社会后， 也会习得这些坏习惯， 特别是在缺乏自由的职业中。 
-一旦大部分人染上这些恶习， 将不利于社会的发展。 作者举了一个例子，假如独裁者上台， 我们至少需要一位勇敢的反抗者领袖。 学校永远不会让你学会反抗。 
-
-🌱但是现实不是这样的， 总会有反抗者， 虽然很多人趋于服从， 社会群体依然会保持其多样性。
-
-### 3.4 Good habits -   [3.4Good habits](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Good_habits)
+### 3.1 技能与习惯 [[学校陋习100+ 技能不等于好习惯]]
 
 
-[[自律是好习惯吗？]]
-Self-discipline makes sense only if the benefits outweigh the cost, and that calculus must have a form of an integral with an eye to long-term effects.
-只有在利大于弊时，自律才有意义。
-如果有人自律早起，他可能在学校或工作中收获一些好处，但也可能伤害自己的健康、大脑和寿命。一套「早起方法」可以被看作一套技能。这种技能可以在紧急情况下使用，例如，当需要对病人进行紧急的手术时，早起是有意义的。但这种紧急情况下的技能并不是一种好习惯（例如，每天使用[闹钟](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Alarm_clock)）。
-青少年应该在需要的时候从床上爬起来，把他们最好的脑力用于学习。早起的技能可以在成年后大脑成熟、不易受伤的时候掌握。
+
+### 3.2 坏习惯数不胜数 [[学校陋习100+ 大多学校问题都是因为不理解快乐学习的原理]]
+
+
+### 3.3 Universal habits [[学校陋习100+ 集体服从]]
+
+
+
+### 3.4 Good habits -   [3.4Good habits](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Good_habits) [[学校陋习100+ 自律是好习惯吗？]]
+
 
 ### 3.5 Incremental reading 渐进阅读
 
 被动的学校教育与自由学习对立。 自由学习的好处可以在[[渐进阅读]]里集中体现。 
 
-### [4Problem solving](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Problem_solving) 不理解解决问题的真正机制
-
-人类的进步基于[解决问题](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Problem_solving)。有意思的是，我们能解决问题，但似乎对解决问题的机制知之甚少。
-it models the brain as a perfectly deductive and a perfectly imitative computer.
-在这个方面，学校教育的主要问题是，把人脑当做完美的推理机器和完美的人形计算机。
-our brain is a [concept network](https://supermemo.guru/wiki/Concept_network "Concept network") whose great power resides in taking imperfect heuristic shortcuts in achieving goals.
-
-事实上，我们的大脑是[概念网络](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Concept_network)，其强大之处在于采用不完美的启发式捷径来实现目标。[[认知偏差]]和[泛化](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Generalization)是大脑的全部功能。The brain is all about [cognitive biases](https://supermemo.guru/wiki/Cognitive_bias "Cognitive bias") and [generalizations](https://supermemo.guru/wiki/Generalization "Generalization").
-
-大脑总是形成[错误模型](错误模型的价值)，不能集中注意力，不断[遗忘](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Forgetting)，都是为了做更重要的事情。 
-
-大脑其实「不完美但强大」，我们却追求完美不出差错，**学校教育了数百万儿童痛苦的根源**。
+### [4Problem solving](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Problem_solving) [[学校陋习100+ 不理解解决问题的真正机制]]
 
 
-_🌱从玩美主义学校出来， 在完美主义公司工作， 玩美主义是我过去很多痛苦的根源。_  #感想
+### [4.1Intolerance of heuristics](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_heuristics) [[学校陋习100+ 不容马虎 ]]
 
-
-培养解决问题的好习惯，有个简单的方法——让孩子们自己的问题自己解决。
-
-**学校教的是用明确的工具解决假问题。但生活中处处是找不到工具的真问题。**
-
-### [4.1Intolerance of heuristics](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_heuristics) 不许马虎
-The habit of deduction slows down the brain when it does not need to be slowed down. An algorithmic shortcut can introduce negligible error while **cutting the time complexity by an order of magnitude.** Solving problems fast with heuristics is one of the key weapons of human intelligence. The **skill** of deductive reasoning is useful in many contexts. The brain needs to choose the right tool for the job. Being sloppy can be beneficial too when speed is at a premium, or when taking shortcuts reduces the [cognitive load](https://supermemo.guru/wiki/Cognitive_load "Cognitive load") and increases the chances of solving a problem.
-玩电脑游戏时， 若是孩子顺利解决一连串问题，成年人会担心上瘾和数码痴呆症。 
-若是孩子解决问题时马虎草率通不了关， 承认又会认为孩子只会依赖直觉，这种习惯不精确， 不能用来建造桥梁。 
-
-学校要培养孩子推理的习惯， 但是不是任何问题都需要花费时间去推理。 我们需要直觉。
-
-当我们需要快速解决问题的时候， 我们需要依赖直觉而不是演绎推论。 算法捷径容许瑕疵， 同时能将时间复杂度 time complexity降低一个量级。 
-用启发式方法快速解决问题是人类智慧的关键武器之一。
-有时我们需要快速解决问题，就要通过走捷径，来减少[认知负荷](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Cognitive_load)，增加解决问题的机会，在这些情况下， 草率一点也是有益的。
-**人类智能依赖于基于[概念计算](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Conceptual_computation)的启发式算法。**
 
 ### [4.2Intolerance of cognitive biases](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_cognitive_biases) 不容忍认知偏差
 
@@ -118,115 +72,98 @@ woz这一段写的过于抽象了， 其实就是要允许孩子试错， 在不
 - 
 - **对模型演变的限制阻碍了科学的进步。**
 
-### [4.4Intolerance of daydreaming](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_daydreaming) 不许走神
-
-学校是训练注意力的场所。 对于坐不住的孩子来说，这是一种折磨，而且会遭受更多的训斥。 
-最后， 注意力的确提高了， 但是对注意力的过分追求会导致自尊心降低、焦虑等问题。
-
-大脑是为了创新而设计的。 为了最大限度地提高智力，我们在注意力和创造力之间不断切换。
-
-我们获吸收新信息的时候往往很专注， 我们处理这些信息的时候会变得不够专注。 We focus to absorb new information, and then we become inattentive while processing that information (see: [Natural creativity cycle](https://supermemo.guru/wiki/Natural_creativity_cycle "Natural creativity cycle")). 
-
-压制了[创造力](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Creativity)，就削弱了人类的智慧。我们要求孩子们停止[[坐立不定]]，等于关上了孩子发挥创造力的神经控制开关。我们给孩子们贴上 [ADHD](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/ADHD) 的标签，等于把他们送上了低自尊之路，甚至还要药物治疗。
-
-通过持续集中注意力的训练，学校压制了人类思维最强大的武器之一：[创造力](https://supermemo.guru/wiki/Creativity "创造力")！
-
-[[学校抑制学习内驱力]]，副作用则抑制了创造力。 人们原以为创造力是随着年龄的增长而下降的， 然而， 真正罪魁祸首与年龄无关，都是因为学习中的被迫和[[习得性无助]]。 活力充沛的七旬老人常常比普通小学生更有好奇心和创造力。 
-
-在[[普鲁士学校模式]]中， [[直接教学]]中的模仿占主导地位。 探索、探索式发现学习、[解决问题](https://supermemo.guru/wiki/Problem_solving "解决问题")、决策等方面的地位要小得多。
-
-**创造力是创新的基础，将主导人类未来努力做什么。与此同时，学校灌输过时的知识，还压制了人类思想的最佳品质。**
-
-### [4.5Suppressed exploration](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_exploration) 抑制探索
-
-学校倾向于教授算法式的方法，要求学生熟记规则。 
-
-实际解决问题时， 高效解决问题的基础方法其实是启发式方法、有风险的模型、创造性探索。
-
-学校没有教会学生怎样借助辅助工具，大量探索，去解决问题。 
-
-🌱现在有很多新式学校在尝试探索式教学法， 比如青岛中学，倾向于面向掐尖筛选出来的学生。 #想法
-
-> 考试时，你必须完全依靠记忆。**禁止查阅书籍，否则将受到惩罚**。在现实生活中，当你不记得某些东西时，你只需查找。搜索信息的能力是宝贵的技能。这很简单：解决问题的基础是知识，所以如果你不能解决问题，就去寻找更多的相关知识。
-
-**学校提供严格的指导，削弱了有效解决问题所需的探索技能。**
-
-### [4.6Suppressed sampling](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_sampling)  阻止试错
-
-试错是一种探索。 
-
-为了使试错发挥最理想的效果，**孩子必须是自由的**。
-
-寻找人生使命的过程需要多年，耗费大量的时间，这个过程很大程度上就是试错的过程。
-
-**我们从自己犯过的错误中学到的最多**。 
-
-学校不利于孩子试错。学校限制孩子的时间， 学校生活占去了孩子一天中最有创造力的时间， 要么直接给出现成的解决方法， 要么替孩子做选择。孩子没有自己做选择的机会， 成人的世界充满了善意的错误建议。 
-
-如果儿童没有试错经验，他们可能会不再遵循内心的呼唤去追求自己的所想所欲，甚至在他们成年后也是如此。 25 岁时开始尝试参加工作时，他可能已经背负装满偏见、焦虑和恶习的沉重包袱，让这个过程变得困难重重。
-
-与追求、爱好和工作的试错， 社交试错收到影响。 
-在[封闭系统中](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Socialization_in_a_closed_system)j经历多年社会化之后， 很容易产生一种错觉，即“学校是结识朋友的最佳场所”。毕竟， 从学校出来的人可能只有一个有限的朋友圈， 周围都是老同学。 造成这种错觉的最大因素， 是学校教育对社交试错的抑制。 
-
-更好的人生策略可能是： 爱所有人， 将所有陌生人视为潜在的朋友， 通过这种方法，生活很快就会变得丰富多彩，只恨人生太短，无法结识所有有趣的人。
-
-#待办/疑问 1. 短期认识的人和长期一起生活过的同学， 关系的深度是不一样的。2.  [[邓巴数字]] 
-
-这种态度被现代的育儿和学校教育积极地摧毁了。孩子出去玩的第一件事就是灌输对陌生人的恐惧。 
-**总是在封闭的系统中结交朋友，多年之后，建立随意友谊的天然能力被破坏了。** After years of fraternizing in a closed system, the natural ability to strike casual friendships is destroyed.
-
-许多 30-40 岁的人感到孤独和沮丧的原因只有一个：他们与其他人交往的能力系统压制了。
-解决方案是：采用渐进的社会互动，逐渐淡化在学校岁月的影响。 
-
-The tough solution is to gradually unlearn the years of schooling by employing incremental increase in social interaction
-
-#启发 社恐的人好像变多了，是因为「社恐」这个词汇的流行， 让很多人意识到了这一点， 还是因为， 现代学校教育会是导致了更多人变得社恐？
-
-糟糕的社会试错机制最终导致了[[蠢蛋进化论]]的问题。这并不是一个简单的鸠占鹊巢的问题。更深层次的原因是，受教育的那些聪明人与其他人一样缺乏友善进行社交的能力，他们很孤独。解决生育率低下问题的方法是：使人们去追求更深的友谊、浪漫关系、性欲和对孩子的爱。这些对于本能的积极追求如果不被压制，所有住房、金钱、工作和职业的抉择「难题」就会逐渐不攻自破。在家庭的善意环境中，家庭成员会得到爱和生产力的正反馈，形成良性循环，从而帮助他们自信心的建立。家庭中的善意到了社会上荡然无存，对社会的怀疑使人们失去了善意，而这种怀疑的产生的原因就在于缺乏社交试错。此外，缺乏试错的人也许会想改变自身在社会中的困境，但这样的改变总是会本末倒置，不去关注自己内心的善意是否存在，反而总想着「恋爱不顺利换个对象就行」，学校在这方面的负面影响根深蒂固，会使人们不重视自己的积极本能而去进行自作聪明的改变，过分完美主义体现在了自作聪明上。
-
-
-**学校限制学生的决策范围，压制了他们一系列技能的发展，包括交友和寻找伴侣。**
+### [4.4Intolerance of daydreaming](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_daydreaming) [[学校陋习100+——不许走神]]
 
 
 
-🌱小时候做一个让父母放心的孩子， 得不到父母的关注，也是一种幸运。这样的人能获得很多试错的机会， 一般会是个有内驱力的人。 但是有了孩子后，容易产生补偿心理， 想在孩子身上， 弥补自己曾经缺失的关注，一旦过分关注，就容易产生问题。有很多当年拼搏从农村考上大学的人， 怎么也想不明白为什么自己的孩子怎么都扶不上墙。 一个有内驱力的人， 如果不知道内驱力来源的道理， 反而更容易培养出没有内驱力的孩子。 #想法
+### [4.5Suppressed exploration](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_exploration) [[学校陋习100+ 抑制探索]]
 
--   [4.7Micromanagement of reasoning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Micromanagement_of_reasoning)
--   [5Learning habits](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Learning_habits)
-    -   [5.1Suppressed love of learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_love_of_learning)
-    -   [5.2Suppressed creativity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_creativity)
-    -   [5.3Suppressed exploratory learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_exploratory_learning)
-    -   [5.4Suppressed communication](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_communication)
-    -   [5.5Belief in one truth](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Belief_in_one_truth)
-    -   [5.6Imitation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Imitation)
-    -   [5.7Blunted skepticism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Blunted_skepticism)
-    -   [5.8Lazy attention patterns](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Lazy_attention_patterns)
-    -   [5.9Micromanagement of the learning process](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Micromanagement_of_the_learning_process)
-    -   [5.10Excessive focus on details](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_focus_on_details)
-    -   [5.11Excessive conscientiousness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_conscientiousness)
-    -   [5.12Excessive focus on short-term memory](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_focus_on_short-term_memory)
-    -   [5.13Cramming](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Cramming)
-    -   [5.14Tolerance of toxic memories](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_toxic_memories)
-    -   [5.15Tolerance of displeasure](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_displeasure)
-    -   [5.16Hate of school and learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hate_of_school_and_learning)
-    -   [5.17Worship of hard work](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_hard_work)
-    -   [5.18Futile grit](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Futile_grit)
-    -   [5.19Reliance on repetition](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_repetition)
-    -   [5.20Reliance on testing](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_testing)
-    -   [5.21Tolerance of bad sleep](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_bad_sleep)
-    -   [5.22Disrespect for sleep](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Disrespect_for_sleep)
-    -   [5.23Disrespect for physiology](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Disrespect_for_physiology)
-    -   [5.24Extrinsic valuation of knowledge](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Extrinsic_valuation_of_knowledge)
-    -   [5.25Devaluation of knowledge](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Devaluation_of_knowledge)
-    -   [5.26Indiscriminate learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Indiscriminate_learning)
-    -   [5.27Injury of generalization skills](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Injury_of_generalization_skills)
-    -   [5.28Tolerance of pointlessness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_pointlessness)
-    -   [5.29Tolerance of inaction](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_inaction)
-    -   [5.30Serialization of reading](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Serialization_of_reading)
-    -   [5.31Subvocalization](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Subvocalization)
-    -   [5.32Spaced repetition discomfort](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Spaced_repetition_discomfort)
-    -   [5.33Incremental reading discomfort](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Incremental_reading_discomfort)
-    -   [5.3420 bad habits of representation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#20_bad_habits_of_representation)
+
+
+### [4.6Suppressed sampling](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_sampling)  [[学校陋习100+ 不鼓励试错]]
+
+
+### [4.7Micromanagement of reasoning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Micromanagement_of_reasoning) 推理的微管理
+
+The best ideas come from connecting two remote areas of knowledge.
+
+最好的想法来自两种知识领域的远距链接。 这些关联很大程度上实在随机且不可控制的过程中产生的。 
+
+为了让这个过程有效发生，大脑需要平静、激情、知识、目标和大量时间。[[如何解决任何问题]]
+
+学校提供现成的步骤、决策时的有限选择，以及对创意过程的微观管理，削弱了学生解决问题的能力。
+
+
+
+## [5Learning habits](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Learning_habits) 学习习惯方面
+### [5.1Suppressed love of learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_love_of_learning) 抑制学习爱好
+学校教育是儿童好奇心的最著名杀手
+
+经过多年的强制性学校教育，孩子们真的讨厌学习。他们可能会说_“我出去做任何事情就是为了远离书本”_。有关详细信息，请参阅：[学校抑制学习内驱力](https://supermemo.guru/wiki/Schools_suppress_the_learn_drive "学校压制学习内驱力")
+
+[通过丰富的学习，学习内驱力](https://supermemo.guru/wiki/Learn_drive "学习内驱力")可以在成年后部分恢复。然而，[概念化](https://supermemo.guru/wiki/Conceptualization "概念化")过程的进展使逆转变得困难和/或不完整。当神经元死亡时，这个过程在很大程度上是不可逆的。请参阅：[逆向学习的危害](https://supermemo.guru/wiki/Knowledge_valuation_network#Harms_of_reversal_learning "知识估价网")
+
+
+### [5.2Suppressed creativity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_creativity) 抑制创造力
+
+在严格的学校教育的头三年里，孩子们失去了大部分的创造力
+一旦学习的[乐趣](https://supermemo.guru/wiki/Pleasure_of_learning "学习的乐趣")受到抑制，[学习](https://supermemo.guru/wiki/Learn_drive "学习内驱力")内驱力被制约，[创造力](https://supermemo.guru/wiki/Creativity "创造力")就会因新连贯知识的流入受阻而减弱，而新的[连贯](https://supermemo.guru/wiki/Coherence "一致性")知识是远程知识领域之间新关联的基础（参见：[知识与创造力](https://supermemo.guru/wiki/Knowledge_and_creativity "知识和创造力")）
+这个问题与[对白日梦的不容忍密切相关](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#intolerance_of_daydreaming)。一旦白日梦不受欢迎，自发的创造力就会受到压制。
+
+### [5.3Suppressed exploratory learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_exploratory_learning) 抑制探索式学习
+
+最好的学习形式是探索。例如，在[渐进阅读](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Incremental_reading)中，学习过程由需求和兴趣控制。它通过联想从重点材料向新的领域树枝式地扩散。几千年来，我们就是这样学习的（见：[论老鼠对受教育的人的优越性](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)）。儿童在游戏中自然学习。当他们去学校时，他们的探索性追求很快就被压制了。一方面，他们需要遵循定好的方向。另一方面，他们没有时间或精力在自己的领域里继续探索。
+
+许多案例显示，任何[概念激活](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Conceptual_computation)都可以被条件化，压制记忆和学习。学校的气味或书本的颜色都可以压制记忆（见：[学校如何关闭记忆](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/How_school_turns_off_memory)）。对很多孩子来说，仅仅是「学习」这个词就有不好的联想。他们会做任何事情来避免「学习」，即使他们最喜欢的活动是一个很好的学习方式（如观看 YouTube）。
+
+**通过抑制探索性学习，学校影响了对学习的热爱，压制了创造力。**
+
+### [5.4Suppressed communication](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_communication) 抑制交流
+
+在课堂上，学生需要保持沉默，即使他们有很大的社交交流的欲望。
+基于[交流之乐](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_communication)的欲望被持续压制，可能会导致欲望的钝化（通过[神经网络战争](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/War_of_the_networks)[[45]](https://zhuanlan.zhihu.com/p/559705516#ref_45)）。
+适当的」沟通渠道只存在于学生和老师之间。
+由于师生沟通渠道经常被占用或关闭，与权威的沟通变得非常宝贵，这反过来又让教师显得很有价值。自然地，大多数具有良性叛逆心理的学生倾向于不问老师，用社交媒体或课后社交来补偿他们的沟通需求。那些沟通能力被压制的学生成年后可能倾向于不愿意主动和别人交流。他们变得羞于说话。
+
+🌱小学和初中我是那个管理班级纪律的班长， 这是我后来最后悔的一件事情。 
+
+康的好奇心和[交流的乐趣](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_communication)应该使每个人在任何时候都能与任何人交谈。在乘坐出租车上下班的日子里（三十年前），我 90% 的车程都在聊天。今天，我在开放的社交空间里生活。我不知道我在乘电梯时花了多少时间保持沉默，如果行程超过两层，我就会和共乘电梯的人搭讪，即使他是个看起来暴躁的陌生人。这些社交对于那些不能从社交中获得满足的人来说可能很烦人，所以我知道什么时候该闭嘴（应该吧）。无论如何，我认为这种社交习惯是健康的，我很遗憾我们这么多人在学校里失去了这种习惯。
+
+🌱我自己也观察过这样一个现象， 60后比70后健谈， 70后比80后健谈。 你是否见过， 街边摊上， 那一群60后在一起撸串喝啤酒侃大山时， 有多么健谈。 
+忘了从几岁开始， 我变得既社恐又渴望跟陌生人侃大山的能力。 我的父母从来没有这种苦恼， 我觉得我的母亲也是内向的人， 但是， 她在电梯上， 跟任何人都能聊起来。 
+有时候我把这个现象归结于社会的变迁， 我们成长的环境从熟人圈子转换成了陌生人的圈子。 
+
+
+-   [5.5Belief in one truth](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Belief_in_one_truth)
+-   [5.6Imitation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Imitation)
+-   [5.7Blunted skepticism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Blunted_skepticism)
+-   [5.8Lazy attention patterns](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Lazy_attention_patterns)
+-   [5.9Micromanagement of the learning process](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Micromanagement_of_the_learning_process)
+-   [5.10Excessive focus on details](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_focus_on_details)
+-   [5.11Excessive conscientiousness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_conscientiousness)
+-   [5.12Excessive focus on short-term memory](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_focus_on_short-term_memory)
+-   [5.13Cramming](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Cramming)
+-   [5.14Tolerance of toxic memories](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_toxic_memories)
+-   [5.15Tolerance of displeasure](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_displeasure)
+-   [5.16Hate of school and learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hate_of_school_and_learning)
+-   [5.17Worship of hard work](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_hard_work)
+-   [5.18Futile grit](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Futile_grit)
+-   [5.19Reliance on repetition](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_repetition)
+-   [5.20Reliance on testing](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_testing)
+-   [5.21Tolerance of bad sleep](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_bad_sleep)
+-   [5.22Disrespect for sleep](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Disrespect_for_sleep)
+-   [5.23Disrespect for physiology](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Disrespect_for_physiology)
+-   [5.24Extrinsic valuation of knowledge](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Extrinsic_valuation_of_knowledge)
+-   [5.25Devaluation of knowledge](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Devaluation_of_knowledge)
+-   [5.26Indiscriminate learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Indiscriminate_learning)
+-   [5.27Injury of generalization skills](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Injury_of_generalization_skills)
+-   [5.28Tolerance of pointlessness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_pointlessness)
+-   [5.29Tolerance of inaction](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_inaction)
+-   [5.30Serialization of reading](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Serialization_of_reading)
+-   [5.31Subvocalization](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Subvocalization)
+-   [5.32Spaced repetition discomfort](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Spaced_repetition_discomfort)
+-   [5.33Incremental reading discomfort](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Incremental_reading_discomfort)
+-   [5.3420 bad habits of representation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#20_bad_habits_of_representation)
 -   [6Learning strategies](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Learning_strategies)
     -   [6.1Reliance on assistance](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_assistance)
     -   [6.2Neglecting passions](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Neglecting_passions)
