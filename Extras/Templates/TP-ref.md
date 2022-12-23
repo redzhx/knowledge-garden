@@ -5,11 +5,15 @@ aliases:
 date created: {{date:YYYY-MM-DD}}
 tags: 
 ---
-{{title}} 
+## {{title}} 
+
+
+## 我的理解
 
 
 
-## 出处
+## 笔记
+
 
 
 
@@ -18,11 +22,23 @@ tags:
 
 
 
-## 我的想法
+
+## Reference
+
+
+### Source
+
+
+### 综述
 
 
 
-## References
+### 评论
+
+
+
+### 一手出处
+
 
 
 

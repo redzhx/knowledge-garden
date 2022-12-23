@@ -118,25 +118,29 @@ The best ideas come from connecting two remote areas of knowledge.
 
 **通过抑制探索性学习，学校影响了对学习的热爱，压制了创造力。**
 
-### [5.4Suppressed communication](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_communication) 抑制交流
+### [5.4Suppressed communication](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppressed_communication) [[学校陋习100+ 抑制交流]]
 
-在课堂上，学生需要保持沉默，即使他们有很大的社交交流的欲望。
-基于[交流之乐](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_communication)的欲望被持续压制，可能会导致欲望的钝化（通过[神经网络战争](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/War_of_the_networks)[[45]](https://zhuanlan.zhihu.com/p/559705516#ref_45)）。
-适当的」沟通渠道只存在于学生和老师之间。
-由于师生沟通渠道经常被占用或关闭，与权威的沟通变得非常宝贵，这反过来又让教师显得很有价值。自然地，大多数具有良性叛逆心理的学生倾向于不问老师，用社交媒体或课后社交来补偿他们的沟通需求。那些沟通能力被压制的学生成年后可能倾向于不愿意主动和别人交流。他们变得羞于说话。
+### [5.5Belief in one truth](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Belief_in_one_truth)  单一真理
 
-🌱小学和初中我是那个管理班级纪律的班长， 这是我后来最后悔的一件事情。 
+教科书呈现一个完美的真理， 由无所不知的上帝般的人物传递： 教师。 真相的存在所需的怀疑主义。
 
-康的好奇心和[交流的乐趣](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_communication)应该使每个人在任何时候都能与任何人交谈。在乘坐出租车上下班的日子里（三十年前），我 90% 的车程都在聊天。今天，我在开放的社交空间里生活。我不知道我在乘电梯时花了多少时间保持沉默，如果行程超过两层，我就会和共乘电梯的人搭讪，即使他是个看起来暴躁的陌生人。这些社交对于那些不能从社交中获得满足的人来说可能很烦人，所以我知道什么时候该闭嘴（应该吧）。无论如何，我认为这种社交习惯是健康的，我很遗憾我们这么多人在学校里失去了这种习惯。
+### [5.6Imitation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Imitation) 模仿
+模仿是一项至关重要的技能，可以帮助人们在浩瀚的人类知识领域中走捷径。
 
-🌱我自己也观察过这样一个现象， 60后比70后健谈， 70后比80后健谈。 你是否见过， 街边摊上， 那一群60后在一起撸串喝啤酒侃大山时， 有多么健谈。 
-忘了从几岁开始， 我变得既社恐又渴望跟陌生人侃大山的能力。 我的父母从来没有这种苦恼， 我觉得我的母亲也是内向的人， 但是， 她在电梯上， 跟任何人都能聊起来。 
-有时候我把这个现象归结于社会的变迁， 我们成长的环境从熟人圈子转换成了陌生人的圈子。 
+模仿的技巧不能成为一种习惯。一旦我们开始习惯性地模仿，我们就开始随波逐流，形成不容忍[多样性](https://supermemo.guru/wiki/Diversity "多样性")的社会群体，并强化了另一个坏习惯：不情愿地服从权威。模仿不应阻碍创新，而**应有助于创新**。
+
+是[[学习内驱力]]让我们渴望新知识， 并充分利用历来的成果。
+
+我们教微积分，只是让学生暂时能解一些方程（直到遗忘将其悉数还给老师）。他不会是最聪明的数学家。伟大的数学家是在无休止的自由探索调查中诞生的。牛顿不需要学习微积分。他发明了它。他更有资格获得最聪明的数学家的称号。
+
+### [5.7Blunted skepticism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Blunted_skepticism)   迟钝的怀疑
+
+所有国家各年级的教科书都充满了错误、过时的理论，错误的陈述，以及大量与现代世界不再相关的事实知识。
+
+然而，这些都被呈现为“唯一的真相”。学校很少鼓励学生质疑老师、权威，尤其是教科书。
 
 
--   [5.5Belief in one truth](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Belief_in_one_truth)
--   [5.6Imitation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Imitation)
--   [5.7Blunted skepticism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Blunted_skepticism)
+
 -   [5.8Lazy attention patterns](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Lazy_attention_patterns)
 -   [5.9Micromanagement of the learning process](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Micromanagement_of_the_learning_process)
 -   [5.10Excessive focus on details](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Excessive_focus_on_details)
@@ -165,183 +169,72 @@ The best ideas come from connecting two remote areas of knowledge.
 -   [5.33Incremental reading discomfort](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Incremental_reading_discomfort)
 -   [5.3420 bad habits of representation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#20_bad_habits_of_representation)
 -   [6Learning strategies](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Learning_strategies)
-    -   [6.1Reliance on assistance](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_assistance)
-    -   [6.2Neglecting passions](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Neglecting_passions)
-    -   [6.3Reliance on literal representation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_literal_representation)
-    -   [6.4Fear of non-linearity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_non-linearity)
-    -   [6.5Fear of knowledge gaps](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_knowledge_gaps)
-    -   [6.6Tolerance of poor comprehension](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_poor_comprehension)
-    -   [6.7Overestimating memory capacity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Overestimating_memory_capacity)
-    -   [6.8Glorification of schooling](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Glorification_of_schooling)
-    -   [6.9Fetishization of the scientific method](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fetishization_of_the_scientific_method)
-    -   [6.10Reliance on peer review](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_peer_review)
-    -   [6.11Reliance on degrees](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_degrees)
-    -   [6.12Reliance on experts](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_experts)
-    -   [6.13Reliance on curriculum](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_curriculum)
-    -   [6.14Reliance on formulas](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_formulas)
-    -   [6.15Reliance on labels](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_labels)
-    -   [6.16Reliance on books](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_books)
-    -   [6.17Cover-to-cover reading](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Cover-to-cover_reading)
-    -   [6.18Worship of spelling](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_spelling)
-    -   [6.19Gamification](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Gamification)
-    -   [6.20Underuse of Wikipedia](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Underuse_of_Wikipedia)
+-   [6.1Reliance on assistance](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_assistance)
+-   [6.2Neglecting passions](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Neglecting_passions)
+-   [6.3Reliance on literal representation](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_literal_representation)
+-   [6.4Fear of non-linearity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_non-linearity)
+-   [6.5Fear of knowledge gaps](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_knowledge_gaps)
+-   [6.6Tolerance of poor comprehension](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_poor_comprehension)
+-   [6.7Overestimating memory capacity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Overestimating_memory_capacity)
+-   [6.8Glorification of schooling](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Glorification_of_schooling)
+-   [6.9Fetishization of the scientific method](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fetishization_of_the_scientific_method)
+-   [6.10Reliance on peer review](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_peer_review)
+-   [6.11Reliance on degrees](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_degrees)
+-   [6.12Reliance on experts](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_experts)
+-   [6.13Reliance on curriculum](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_curriculum)
+-   [6.14Reliance on formulas](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_formulas)
+-   [6.15Reliance on labels](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_labels)
+-   [6.16Reliance on books](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Reliance_on_books)
+-   [6.17Cover-to-cover reading](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Cover-to-cover_reading)
+-   [6.18Worship of spelling](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_spelling)
+-   [6.19Gamification](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Gamification)
+-   [6.20Underuse of Wikipedia](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Underuse_of_Wikipedia)
 -   [7Life strategies](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Life_strategies)
-    -   [7.1Robotization of life](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Robotization_of_life)
-    -   [7.2Goallessness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Goallessness)
-    -   [7.3Submission to authority](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Submission_to_authority)
-    -   [7.4Hate of authority](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hate_of_authority)
-    -   [7.5Intolerance of diversity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_diversity)
-    -   [7.6Sense of fake duty](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Sense_of_fake_duty)
-    -   [7.7Intolerance of procrastination](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_procrastination)
-    -   [7.8Submission to uniformity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Submission_to_uniformity)
-    -   [7.9Disrespect for freedom](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Disrespect_for_freedom)
-    -   [7.10Tolerance of tedium](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_tedium)
-    -   [7.11Intolerance of impulsivity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_impulsivity)
-    -   [7.12Hiding emotions](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hiding_emotions)
-    -   [7.13Criticism of optimism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Criticism_of_optimism)
-    -   [7.14Political correctness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Political_correctness)
-    -   [7.15Zero-sum gamesmanship](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Zero-sum_gamesmanship)
-    -   [7.16Envy](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Envy)
-    -   [7.17Love of money](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Love_of_money)
-    -   [7.18Worship of orderliness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_orderliness)
-    -   [7.19Worship of perfect models](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_perfect_models)
-    -   [7.20Worship of utilitarianism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_utilitarianism)
-    -   [7.21Confusing noise with learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Confusing_noise_with_learning)
-    -   [7.22Wasting the morning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Wasting_the_morning)
-    -   [7.23Tolerance of commuting](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_commuting)
-    -   [7.24Suppression of fidgeting](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppression_of_fidgeting)
-    -   [7.25Cheating](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Cheating)
-    -   [7.26Health micromanagement](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Health_micromanagement)
+-   [7.1Robotization of life](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Robotization_of_life)
+-   [7.2Goallessness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Goallessness)
+-   [7.3Submission to authority](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Submission_to_authority)
+-   [7.4Hate of authority](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hate_of_authority)
+-   [7.5Intolerance of diversity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_diversity)
+-   [7.6Sense of fake duty](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Sense_of_fake_duty)
+-   [7.7Intolerance of procrastination](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_procrastination)
+-   [7.8Submission to uniformity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Submission_to_uniformity)
+-   [7.9Disrespect for freedom](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Disrespect_for_freedom)
+-   [7.10Tolerance of tedium](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_tedium)
+-   [7.11Intolerance of impulsivity](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Intolerance_of_impulsivity)
+-   [7.12Hiding emotions](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hiding_emotions)
+-   [7.13Criticism of optimism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Criticism_of_optimism)
+-   [7.14Political correctness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Political_correctness)
+-   [7.15Zero-sum gamesmanship](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Zero-sum_gamesmanship)
+-   [7.16Envy](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Envy)
+-   [7.17Love of money](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Love_of_money)
+-   [7.18Worship of orderliness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_orderliness)
+-   [7.19Worship of perfect models](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_perfect_models)
+-   [7.20Worship of utilitarianism](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Worship_of_utilitarianism)
+-   [7.21Confusing noise with learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Confusing_noise_with_learning)
+-   [7.22Wasting the morning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Wasting_the_morning)
+-   [7.23Tolerance of commuting](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Tolerance_of_commuting)
+-   [7.24Suppression of fidgeting](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Suppression_of_fidgeting)
+-   [7.25Cheating](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Cheating)
+-   [7.26Health micromanagement](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Health_micromanagement)
 -   [8Conditioned responses](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Conditioned_responses)
-    -   [8.1Learned helplessness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Learned_helplessness)
-    -   [8.2Procrastination](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Procrastination)
-    -   [8.3Low self-esteem](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Low_self-esteem)
-    -   [8.4Fear of looking foolish](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_looking_foolish)
-    -   [8.5Fear of speaking out](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_speaking_out)
-    -   [8.6Fear of being tested](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_being_tested)
-    -   [8.7Fear of public speaking](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_public_speaking)
-    -   [8.8Fear of problem solving](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_problem_solving)
-    -   [8.9Asemantic processing](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Asemantic_processing)
-    -   [8.10Imaginary indolence](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Imaginary_indolence)
-    -   [8.11Domain-specific anxieties](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Domain-specific_anxieties)
-    -   [8.12Peer pressure anxieties](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Peer_pressure_anxieties)
+-   [8.1Learned helplessness](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Learned_helplessness)
+-   [8.2Procrastination](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Procrastination)
+-   [8.3Low self-esteem](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Low_self-esteem)
+-   [8.4Fear of looking foolish](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_looking_foolish)
+-   [8.5Fear of speaking out](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_speaking_out)
+-   [8.6Fear of being tested](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_being_tested)
+-   [8.7Fear of public speaking](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_public_speaking)
+-   [8.8Fear of problem solving](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_problem_solving)
+-   [8.9Asemantic processing](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Asemantic_processing)
+-   [8.10Imaginary indolence](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Imaginary_indolence)
+-   [8.11Domain-specific anxieties](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Domain-specific_anxieties)
+-   [8.12Peer pressure anxieties](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Peer_pressure_anxieties)
 -   [9Mental health](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Mental_health)
 -   [10Stunted conceptualization](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Stunted_conceptualization)
 -   [11Mythology of learning](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Mythology_of_learning)
 -   [12Habits unrelated to school](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Habits_unrelated_to_school)
 -   [13Teacher's habits](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Teacher's_habits)
--   [14Hall of Habit Shame](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hall_of_Habit_Shame)| 4    | Problem solving                         |
-|------|-----------------------------------------|
-| 4.1  | Intolerance of heuristics               |
-| 4.2  | Intolerance of cognitive biases         |
-| 4.3  | Intolerance of bad models               |
-| 4.4  | Intolerance of daydreaming              |
-| 4.5  | Suppressed exploration                  |
-| 4.6  | Suppressed sampling                     |
-| 4.7  | Micromanagement of reasoning            |
-| 5    | Learning habits                         |
-| 5.1  | Suppressed love of learning             |
-| 5.2  | Suppressed creativity                   |
-| 5.3  | Suppressed exploratory learning         |
-| 5.4  | Suppressed communication                |
-| 5.5  | Belief in one truth                     |
-| 5.6  | Imitation                               |
-| 5.7  | Blunted skepticism                      |
-| 5.8  | Lazy attention patterns                 |
-| 5.9  | Micromanagement of the learning process |
-| 5.10 | Excessive focus on details              |
-| 5.11 | Excessive conscientiousness             |
-| 5.12 | Excessive focus on short-term memory    |
-| 5.13 | Cramming                                |
-| 5.14 | Tolerance of toxic memories             |
-| 5.15 | Tolerance of displeasure                |
-| 5.16 | Hate of school and learning             |
-| 5.17 | Worship of hard work                    |
-| 5.18 | Futile grit                             |
-| 5.19 | Reliance on repetition                  |
-| 5.20 | Reliance on testing                     |
-| 5.21 | Tolerance of bad sleep                  |
-| 5.22 | Disrespect for sleep                    |
-| 5.23 | Disrespect for physiology               |
-| 5.24 | Extrinsic valuation of knowledge        |
-| 5.25 | Devaluation of knowledge                |
-| 5.26 | Indiscriminate learning                 |
-| 5.27 | Injury of generalization skills         |
-| 5.28 | Tolerance of pointlessness              |
-| 5.29 | Tolerance of inaction                   |
-| 5.30 | Serialization of reading                |
-| 5.31 | Subvocalization                         |
-| 5.32 | Spaced repetition discomfort            |
-| 5.33 | Incremental reading discomfort          |
-| 5.34 | 20 bad habits of representation         |
-| 6    | Learning strategies                     |
-| 6.1  | Reliance on assistance                  |
-| 6.2  | Neglecting passions                     |
-| 6.3  | Reliance on literal representation      |
-| 6.4  | Fear of non-linearity                   |
-| 6.5  | Fear of knowledge gaps                  |
-| 6.6  | Tolerance of poor comprehension         |
-| 6.7  | Overestimating memory capacity          |
-| 6.8  | Glorification of schooling              |
-| 6.9  | Fetishization of the scientific method  |
-| 6.10 | Reliance on peer review                 |
-| 6.11 | Reliance on degrees                     |
-| 6.12 | Reliance on experts                     |
-| 6.13 | Reliance on curriculum                  |
-| 6.14 | Reliance on formulas                    |
-| 6.15 | Reliance on labels                      |
-| 6.16 | Reliance on books                       |
-| 6.17 | Cover-to-cover reading                  |
-| 6.18 | Worship of spelling                     |
-| 6.19 | Gamification                            |
-| 6.20 | Underuse of Wikipedia                   |
-| 7    | Life strategies                         |
-| 7.1  | Robotization of life                    |
-| 7.2  | Goallessness                            |
-| 7.3  | Submission to authority                 |
-| 7.4  | Hate of authority                       |
-| 7.5  | Intolerance of diversity                |
-| 7.6  | Sense of fake duty                      |
-| 7.7  | Intolerance of procrastination          |
-| 7.8  | Submission to uniformity                |
-| 7.9  | Disrespect for freedom                  |
-| 7.10 | Tolerance of tedium                     |
-| 7.11 | Intolerance of impulsivity              |
-| 7.12 | Hiding emotions                         |
-| 7.13 | Criticism of optimism                   |
-| 7.14 | Political correctness                   |
-| 7.15 | Zero-sum gamesmanship                   |
-| 7.16 | Envy                                    |
-| 7.17 | Love of money                           |
-| 7.18 | Worship of orderliness                  |
-| 7.19 | Worship of perfect models               |
-| 7.20 | Worship of utilitarianism               |
-| 7.21 | Confusing noise with learning           |
-| 7.22 | Wasting the morning                     |
-| 7.23 | Tolerance of commuting                  |
-| 7.24 | Suppression of fidgeting                |
-| 7.25 | Cheating                                |
-| 7.26 | Health micromanagement                  |
-| 8    | Conditioned responses                   |
-| 8.1  | Learned helplessness                    |
-| 8.2  | Procrastination                         |
-| 8.3  | Low self-esteem                         |
-| 8.4  | Fear of looking foolish                 |
-| 8.5  | Fear of speaking out                    |
-| 8.6  | Fear of being tested                    |
-| 8.7  | Fear of public speaking                 |
-| 8.8  | Fear of problem solving                 |
-| 8.9  | Asemantic processing                    |
-| 8.10 | Imaginary indolence                     |
-| 8.11 | Domain-specific anxieties               |
-| 8.12 | Peer pressure anxieties                 |
-| 9    | Mental health                           |
-| 10   | Stunted conceptualization               |
-| 11   | Mythology of learning                   |
-| 12   | Habits unrelated to school              |
-| 13   | Teacher's habits                        |
-| 14   | Hall of Habit Shame                     |
-
+-   [14Hall of Habit Shame](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Hall_of_Habit_Shame)
 
 ---
 ### 汉化版本
@@ -354,6 +247,10 @@ The best ideas come from connecting two remote areas of knowledge.
 ### Source
 
 - 100 bad habits learned at school - supermemo.guru. (2022). Retrieved 16 December 2022, from https://supermemo.guru/wiki/100_bad_habits_learned_at_school
+
+### Related
+
+- [Problem of Schooling - supermemo.guru](https://supermemo.guru/wiki/Problem_of_Schooling) [[I would never send my kids to school(2017)]]
 
 ### Footnotes
 
