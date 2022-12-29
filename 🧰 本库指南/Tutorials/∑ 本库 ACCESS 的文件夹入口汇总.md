@@ -34,6 +34,7 @@ x:: [[∑ 本库 ACCESS 工作流汇总]] ,  [[本库ACCESS文件夹结构与混
 - [[∑ 模板文件创建入口]]
 - [[∑ excalidraw 白板创建入口]]
 - [billfish图片和视频管理](billfish://)
+- [[∑ Canvas]]
 
 ## Sources
 
