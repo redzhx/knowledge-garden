@@ -1,6 +1,5 @@
 ---
 tags: 技巧卡
-aliases: 
 title: R studio
 date created: 2022-12-14
 date modified: 2022-12-14

@@ -1,7 +1,6 @@
 ---
 tags: reference
-aliases: 
-title: 全局认识(真正的教育)
+title: 全局认识
 date created: 2022-12-05
 date modified: 2022-12-05
 ---
