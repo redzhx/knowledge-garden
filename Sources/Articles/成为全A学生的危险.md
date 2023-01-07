@@ -2,7 +2,6 @@
 title: 
 type: note
 aliases:
-tags: []
 date created: 2022-12-18
 date modified: 2022-12-18
 ---
