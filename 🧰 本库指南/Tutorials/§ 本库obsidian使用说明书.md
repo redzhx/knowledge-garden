@@ -1,9 +1,12 @@
 ---
+aliases: 
 date created: 2022-08-05
-date modified: 2022-08-20
+date modified: 2023-01-02
 tags: [目录笔记, 待办/本周]
 title: § 本库obsidian使用说明书
 ---
+
+# § 本库obsidian使用说明书
 
 x:: [[» 本库tutorial编写工作流]]
 

@@ -12,3 +12,7 @@ date modified: 2022-12-14
 包括：聚类分析、共被引分析、词云图、主题趋势等。
 
 bibliometrix插件
+
+![image.png](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/20230103092236.png)
+
+![image.png](https://xxpic.oss-cn-qingdao.aliyuncs.com/pic/20230103092501.png)
