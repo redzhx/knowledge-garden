@@ -1,6 +1,6 @@
 ---
 tags: 人物卡
-aliases: 
+aliases:
 title: 丹尼尔·T威林厄姆
 date created: 2022-12-09
 date modified: 2022-12-09

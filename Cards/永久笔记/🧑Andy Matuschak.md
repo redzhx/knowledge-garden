@@ -1,9 +1,10 @@
 ---
-aliases: 
+aliases:
 date created: 2022-06-22
 date modified: 2022-12-15
 title: 相关笔记
-tags: [人物卡]
+tags:
+  - 人物卡
 ---
 
 ## 🧑Andy Matuschak

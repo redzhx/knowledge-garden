@@ -2,8 +2,6 @@
 title: reference：
 aliases:
   - 杰森·弗里德,Jason Fried
-type: note
-status: ToPrettify 
 tags: people, 人物卡, 创业名人故事
 date created: 2022-05-14
 date modified: 2022-12-02
